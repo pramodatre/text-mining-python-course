@@ -74,7 +74,7 @@ class ReviewData:
 
 
 if __name__ == "__main__":
-    review_data = ReviewData("./html_review_files")
+    review_data = ReviewData("../data/html_review_files")
     print(review_data.data)
     print(review_data.positive_review_data)
     print(review_data.negative_review_data)
