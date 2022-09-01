@@ -42,7 +42,7 @@ def single_movie_data_extractor(movie_container):
 
 def collect_movie_ratings_from_imdb_site():
     pages = [str(i) for i in range(1, 5)]
-    year_urls = [str(i) for i in range(2000, 2022)]
+    year_urls = [str(i) for i in range(2000, 2023)]
     movie_data_list = []
     requests = 0
     start_time = time()
@@ -66,11 +66,6 @@ def collect_movie_ratings_from_imdb_site():
                         requests, response.status_code
                     )
                 )
-
-            # Break the loop if the number of requests is greater than expected
-            # if requests > 88:
-            #     warn("Number of requests was greater than expected.")
-            #     break
 
             html_soup = BeautifulSoup(response.text, "html.parser")
             movie_containers = html_soup.find_all(
