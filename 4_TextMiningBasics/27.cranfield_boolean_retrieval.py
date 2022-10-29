@@ -61,9 +61,9 @@ class PostingsList:
         st = time.time()
         for row in self.cran_docs_df.itertuples():
             self.update_postings_list(row.id, row.abstract)
-        print(f"Indexing all movies took: {time.time() - st:.2} seconds")
         # mandatory sorting of postings
         self.sort_postings()
+        print(f"Indexing all documents took: {time.time() - st:.2} seconds")
         return self.postings_list
 
 
@@ -127,7 +127,8 @@ def get_all_terms_and_document_ids(cran_dataset):
     doc_ids = set()
     for row in cran_dataset.itertuples():
         abstract_terms = TextPreProcessor(row.abstract).get_tokens()
-        for term in abstract_terms:
+        title_terms = TextPreProcessor(row.title).get_tokens()
+        for term in abstract_terms + title_terms:
             terms.add(term)
         doc_ids.add(row.id)
     return terms, doc_ids
@@ -142,6 +143,65 @@ def index_cran_data(cran_docs_df):
     print(p2)
     result = intersect_postings_list(p1, p2)
     print(result)
+    return postings_list
+
+
+def start_interactive_search_using_postings_index(postings_list):
+    while True:
+        query = input("Enter the search query: ")
+        print(f"your query: {query}")
+        if not query:
+            break
+        print(query.split(" "))
+        stack = []
+        # island and crash and fedex
+        for token in query.split(" "):
+            stack.append(token)
+        print(stack)
+        result = None
+        first_iter = True
+        while stack:
+            if first_iter:
+                TextPreProcessor(token).get_tokens()[0]
+                v1 = postings_list.get_postings(stack.pop())
+                if not stack:
+                    if v1 is not None:
+                        result = v1
+                        break
+                    else:
+                        break
+                # and, or
+                # operator
+                # operand
+                operator = stack.pop()
+                v2 = postings_list.get_postings(stack.pop())
+                if v1 is None or v2 is None:
+                    break
+                if operator == "and":
+                    result = intersect_postings_list(v1, v2)
+                elif operator == "or":
+                    result = v1 + v2
+                else:
+                    print(f"{operator} operator not supported!")
+                    break
+                first_iter = False
+            else:
+                operator = stack.pop()
+                v1 = postings_list.get_postings(stack.pop())
+                if v1 is None:
+                    break
+                if operator == "and":
+                    result = intersect_postings_list(v1, result)
+                elif operator == "or":
+                    result = v1 + result
+                else:
+                    print(f"{operator} operator not supported!")
+                    break
+        print("********** searh results **********")
+        if result is not None:
+            for doc_num in result:
+                print(postings_list.doc_number_doc_name_lookup[doc_num])
+        print("***********************************")
 
 
 if __name__ == "__main__":
@@ -160,4 +220,6 @@ if __name__ == "__main__":
     cran_qrels = QueryReleventDocs(
         "/Users/pramodanantharam/Downloads/cran/cranqrel"
     ).get_query_relevantdocs_map()
-    index_cran_data(cran_docs_df)
+    postings_list = index_cran_data(cran_docs_df)
+    start_interactive_search_using_postings_index(postings_list)
+    # print(cran_qrels)
