@@ -68,7 +68,7 @@ class Queries:
                     queries.append(query)
                 query = Query()
                 query.id = line.split(" ")[1]
-                query.int_id = query_index
+                query.int_id = int(query.id)
                 query_index += 1
             elif line.startswith(".W"):
                 self.cur_tag = "QUERY"

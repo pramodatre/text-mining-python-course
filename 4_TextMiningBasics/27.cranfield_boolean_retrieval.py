@@ -18,12 +18,10 @@ class PostingsList:
     are stored in memory and each points to the postings stored on disk.
     """
 
-    def __init__(
-        self, terms: set, document_names: set, cran_docs_df: pd.DataFrame
-    ) -> None:
+    def __init__(self, terms: set, cran_docs_df: pd.DataFrame) -> None:
         self.cran_docs_df = cran_docs_df
         self.doc_number_doc_name_lookup = self.create_doc_number_doc_name_lookup(
-            document_names
+            cran_docs_df
         )
         self.doc_name_doc_number_lookup = {
             v: k for k, v in self.doc_number_doc_name_lookup.items()
@@ -34,11 +32,8 @@ class PostingsList:
     def get_postings_list(self):
         return self.postings_list
 
-    def create_doc_number_doc_name_lookup(self, document_names: set):
-        doc_number_doc_name_lookup = {}
-        for i, doc_name in enumerate(document_names):
-            doc_number_doc_name_lookup[i] = doc_name.lower()
-        return doc_number_doc_name_lookup
+    def create_doc_number_doc_name_lookup(self, cran_docs_df: pd.DataFrame):
+        return {i: i for i in cran_docs_df["id"].values}
 
     def update_postings_list(self, document_name: str, document_string: str):
         doc_num = self.doc_name_doc_number_lookup[document_name.lower()]
@@ -49,7 +44,7 @@ class PostingsList:
     def sort_postings(self):
         for k in self.postings_list:
             v = self.postings_list[k]
-            self.postings_list[k] = sorted(v)
+            self.postings_list[k] = sorted(list(set(v)))
 
     def get_postings(self, token: str):
         if token.lower() in self.postings_list:
@@ -135,14 +130,15 @@ def get_all_terms_and_document_ids(cran_dataset):
 
 
 def index_cran_data(cran_docs_df):
-    terms, doc_ids = get_all_terms_and_document_ids(cran_docs_df)
-    postings_list = PostingsList(terms, doc_ids, cran_docs_df)
-    p1 = postings_list.get_postings("shear")
-    print(p1)
-    p2 = postings_list.get_postings("heat")
-    print(p2)
-    result = intersect_postings_list(p1, p2)
-    print(result)
+    terms, _ = get_all_terms_and_document_ids(cran_docs_df)
+    print(cran_docs_df.columns)
+    postings_list = PostingsList(terms, cran_docs_df)
+    # p1 = postings_list.get_postings("shear")
+    # print(p1)
+    # p2 = postings_list.get_postings("heat")
+    # print(p2)
+    # result = intersect_postings_list(p1, p2)
+    # print(result)
     return postings_list
 
 
@@ -204,6 +200,76 @@ def start_interactive_search_using_postings_index(postings_list):
         print("***********************************")
 
 
+def compute_precision_and_recall(expected_docs, retrieved_docs):
+    expected_docs = set(expected_docs)
+    retrieved_docs = set(retrieved_docs)
+    relevant_docs_retrieved = len(retrieved_docs.intersection(expected_docs))
+    total_retrieved_docs = len(retrieved_docs) + 1e-4
+    total_relevant_docs = len(expected_docs)
+    precision = relevant_docs_retrieved / total_retrieved_docs
+    recall = relevant_docs_retrieved / total_relevant_docs
+    return precision, recall
+
+
+def evaluate_cran_queries(postings_list, cran_queries_df, operator, cran_qrels):
+    # queries_to_process = 5
+    results = []
+    precision_sum = 0
+    recall_sum = 0
+    query_count = 0
+    for row in cran_queries_df.itertuples():
+        # if queries_to_process == 0:
+        #     break
+        # print(row)
+        # print(f"Query: {row.query_text}")
+        query_terms = TextPreProcessor(row.query_text).get_tokens()
+        # query_terms = query_terms[:2]
+        # print(f"Query after pre-processing: {query_terms}")
+        if str(row.int_id) not in cran_qrels:
+            print(
+                f"!!!!!!!!!!!!! could not find query ID {str(row.int_id)} in cran_qrels !!!!!!!!!!!!!"
+            )
+            continue
+        expected_docs = cran_qrels[str(row.int_id)]
+        expected_docs_list = [list(entry.keys())[0] for entry in expected_docs]
+        # print(f"Expected documents: {expected_docs_list}")
+        result = []
+        first_iter = True
+        while query_terms:
+            if first_iter:
+                v1 = postings_list.get_postings(query_terms.pop())
+                v2 = postings_list.get_postings(query_terms.pop())
+                if v1 is None or v2 is None:
+                    break
+                if operator == "and":
+                    result = intersect_postings_list(v1, v2)
+                else:
+                    result = v1 + v2
+                first_iter = False
+            else:
+                v1 = postings_list.get_postings(query_terms.pop())
+                if v1 is None:
+                    break
+                if operator == "and":
+                    result = intersect_postings_list(v1, result)
+                elif operator == "or":
+                    result += v1
+        # queries_to_process -= 1
+        # print(f"Documents returned: {result}")
+        p, r = compute_precision_and_recall(expected_docs_list, result)
+        precision_sum += p
+        recall_sum += r
+        print(f"precision: {p}, recall: {r}")
+        results.append(result)
+        query_count += 1
+        print("*********************************\n")
+
+    print(f"Average precision: {precision_sum / query_count}")
+    print(f"Average recall: {recall_sum / query_count}")
+
+    return results
+
+
 if __name__ == "__main__":
     cran_docs = Documents(
         "/Users/pramodanantharam/Downloads/cran/cran.all.1400"
@@ -221,5 +287,6 @@ if __name__ == "__main__":
         "/Users/pramodanantharam/Downloads/cran/cranqrel"
     ).get_query_relevantdocs_map()
     postings_list = index_cran_data(cran_docs_df)
-    start_interactive_search_using_postings_index(postings_list)
-    # print(cran_qrels)
+    # start_interactive_search_using_postings_index(postings_list)
+    results = evaluate_cran_queries(postings_list, cran_queries_df, "or", cran_qrels)
+    # print(results)
