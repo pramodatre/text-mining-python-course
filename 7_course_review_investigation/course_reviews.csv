@@ -1,0 +1,1296 @@
+rating,comment
+4.5,"So far, so good!"
+5.0,Very nice introduction to advanced text machine techniques. I wanted to get a snapshot of various methods available and deduce what is the right method for my text mining problem at hand and I clearly go it from the course.
+1.0,"not good,total waste of money and time..not giving where to write and how to write code...."
+5.0,I was not satisfied abut the quality of instruction. The instructor seemed to rush through all the topics. This is an advanced course and 2.5 hours of video is far from being sufficient to cover all topics in detail. In order to cover all the topics clearly and not rushing through the details this needs to be at least 25 hours of video. I am saying so because other course on NLP on Udemy are all reasonably long and convey the concept slowly and clearly without rush.
+3.5,"I would name this course as ""A High-level Summary of Machine Learning for Text"". I was already familiar with most of what he presented and was interested in getting more in-depth explanations. For example: how to train my own NER model using spaCy? The author does cover it, but in a too fast way and with very shallow explanations. Sometimes he goes through a big portion of code explaining with a 3-word comment and you are left clueless about how to apply that to other use-cases you may need."
+5.0,I came to know more in detail about text classification. The explanation is simple and easy to understand.  Thank you so much for teaching in detail. I really recommend this course for beginners who wants to learn more about text mining.
+4.5,"A real inspiration. Very interesting topics, well presented."
+3.5,"This course was good for gaining an overall idea in NLP. It has quite a few walk-through examples. However, hands-on learning is limited."
+4.5,Es ist alles sehr gut erklärt - ich hätte mir mehr Übungen gewünscht um es direkt anwenden zu können.
+2.0,"hard one. the course topics looked very promising, but the content itself is underwhelming. If you want to get a current status overview of what text analysis can do this is probably a great course, if you want to learn more because you have some experience already you won't find what you need. "
+2.0,Teorik olarak anlatım yapılıyor. Örnek sayısı yetersiz.
+3.0,Too little explanation of runtime. Course not very comprehensive
+3.5,I'd love to have more real examples ( code and use case )
+5.0,В курсе есть вся информация об алгоритмах работы с текстами.
+3.0,I think it is good.
+5.0,Good Overview
+3.5,Very nice
+4.5,"The instructor, so far, has provided a clear and comprehensive introduction to the topic."
+2.0,Recordings are too old (5+ years). Videos are just going over a script and reading the Help section of packages.
+4.0,The course has been useful.  One problem is that it was recorded some time in the past and newer versions of functions act differently so I had to find a few ways around problems using Google search but that is good practice too.
+5.0,"actually , I wouldn't be exaggerating if i said that this is the best course I've taken so far. "
+5.0,"This is a highly focused and well-designed class around Twitter and Sentiment analysis.  The construction of the Breen sentiment scoring function is a nice takeaway.  If you have never done Twitter or analysis of words, this is a good course in R to start with and build from."
+1.0,"Twitter is now on TLS1.2.. the handshake code does not work and returns errorrror in function (type, msg, asError = TRUE)  : "
+1.5,Please answer the questions!
+4.0,This was pretty good.  I knew very little about the scraping of Tweets so I found this valuable.  I already knew a lot about Text Mining.  I was very interested in sentiment analysis. The instructor's presentation of it was good but I would have liked to have learned other methods of sentiment analysis such as the ones in the qdap and syuzhet packages.
+4.0,The tutorials and mini projects are truly great - Best way to learn. The tutor did a good job in structuring and organizing this course. Great way to learn.
+4.5,"I found this course very educative opened up new ideas to me. However, I didn't like the placement of the course scripts which will to help you follow the video."
+4.0,The content is comprehensive but some times a little basic. I expected far too much from an advanced R course. The course gives an interesting toolbox to deal with unstructured data which is very productive because is uncommon to analyze this kind of data. The quality of the course is good but could be improved in the written material.
+3.0,"It was overall OK, but 1) narration speed was too slow, 2) some of the actions shown couldn't be replicated without googling the problem and adding something that wasn't shown, 3) the coverage is rather limited, as there are many other tasks one might need to do, like extracting user information, separating tweets from retweets, comparing geographic distribution of sentiment, etc., etc."
+4.0,"This course provides a nice introduction to text mining and sentiment analysis in R. Although the course is rated as advance, I found it pretty easy and straightforward. It is not very time consuming either. The course is good and informative though and you'll get familiar with twitter data. It would be a nice addition to work with Facebook and LinkedIn data too."
+4.5,Really well done. The concepts are very easy to understand and to replicate. It is good starting point for data mining with R.
+5.0,"Martin does a great job of teaching by example.  While R is not the most complicated language out here, it has plenty of packages that are built for it.  Martin has taken the topic of text mining, scraping, and sentiment analysis and shown how to accomplish these tasks through use of R.  This is a growing area of study and this course will definitely show you what can be done.  If you have any interest in this topic, the course will whet your appetite for more!"
+5.0,"Great insights even for a beginner, learned a lot, crisp and clear, thanks a lot"
+4.0,Teaches you the basic elements of NLP and sentiment analysis. I'd recommend this to a beginner of NLP with an intermediate level of R.
+1.5,"I was expecting something more developed. I presume that the author does not have statistical background, but even though, conclusions such as ""perfectly fine prove that there is a strong correlation..."" sigh. A waste of money."
+5.0,"Great course, I really like the professor's deliberate, thorough teaching style, and the fact that he provides the R code for all the cool things he teaches you about web scraping, text analytics, and sentiment analysis.   Plus he kinda sounds like Ahhnold Schwartzenegger, so that alone makes me want to listen all day."
+1.0,He seem not to understand the inside of the code.
+5.0,I took this course to help me on the the Capstone project from the Coursera Data Science Specialisation and I am very happy with this course contents and delivery. Thank Martin
+5.0,"Useful concepts, good examples, clear explanations - Thanks!"
+3.0,"I give it 3 stars because although useful, the course more or less repackages information available in CRAN depositories. I think more than anything it saves you time in learning how to implement a narrow method to scrape and perform elementary analysis on twitter data."
+5.0,I am not able to create app on twitter so stuck even before started the course. I am very disappointed with missing information in course
+5.0,The examples are clear.   The content is delivered concisely.  This course is worth it for the score sentiment function alone! Highly recommended!
+4.5,Excellent Course for getting familiar with Social Media Analysis! Thanks Martin!
+4.5,It is practical course. I learned a lot from this course. I got to know how to do  text mining and sentiment analysis with R from this course.
+0.5,All the information were provided during the introduction - no more info in the following lessons. 
+5.0,I really enjoyed this one especially among the previous courses. It is very practical and real life problem solving. I would appreciate to have some more real life problem and case solving tutorials.
+4.5,"The content could be better, and the cleaning process could be introduced more clearly and detailed."
+2.0,Because it looks very trivial to me and I think everyone by browsing the internet can find this info.
+4.0,This course is very well thought out. I was not confused at any step and the instructions are very clear. I took another course similar to this one and it was not great at all. This course is worth taking!
+4.5,"it would be good to know the other application of text mining, not necessarily on twitter or other social platform"
+3.0,"A decent and quick introduction to text mining in R using Twitter data. The instructor does a very good job of outlining 2 different approaches to connecting to Twitter's developer API.  Unfortunately the one area the course falls flat in is how to deal with the inevitable issues with unknown characters, etc. that you will have to deal with when pulling in tweets.  If you are unable to deal with these characters, you really can't continue with the exercises in the course as all further formulas will throw errors and not run properly.  I really wish the instructor spent more time discussing how to properly clean text data since it is such an important part of the job."
+4.5,"Excellent,Clear and Precise!!! But code Section for Scraping and Text Mining should have been provided."
+4.0,"The course is easy to follow and worth taking. My only suggestion would be for the instructor to add more on to the sentiment analysis portion. The sentiment analysis we perform doesn't seem as useful as it could be. But I think this course is more of an intro, and it is great for that."
+4.0,"The processes and functions are great! Some of the code gives errors, and I have to search online for solutions."
+2.0,"Most of the course deals with accessing libraries in R, which a google search could do. This course discusses very little of the theory behind scraping."
+5.0,"the course is very well structured, the teacher answer quickly your questions and he try to learn for yourself. I've been very happy with what I have learned."
+0.5,"The sound is very bad,"
+5.0,I liked the topic covered and some real world scenario used during the course. Also my queries were very promptly answered. Overall very good course
+4.0,Good course to kick start text mining and twitter sentiment analysis!
+5.0,"Very detailed explanation with examples and R code. I loved the content, explanation, pace of the course."
+5.0,Great course. Really enjoyed taking this and through your courses my R knowledge is the best in my company.
+4.5,I really enjoy it. Very hands on and what I learned I could immediately transfer to my daily job.
+5.0,I really loved the course.. Would love to attend a course on the same using Facebook data
+3.5,"Good introduction in general, allows us to know the most common packages and methods  but many steps in the coding stage are hard to replicate."
+1.0,I have been following all the codes but they don´t work in the same way that the screen shows.
+4.5,Very good introduction to text mining and sentiment analysis!
+4.0,"I am still very new to R, so I do not understand everything that is taught completely.  But I am able to follow along and get results.  I have encountered some errors that were not addressed in the course, but so far I have been able to figure things out either via the Q&A or by looking around the internet for a few minutes."
+4.0,"It was a reasonable course, teach consistently. Could have more examples and provide the source code of the classes."
+5.0,very well structured ...great work Martin
+4.0,Very well explained in a very understandable English. But needs to be updated.
+5.0,Covers a lot of material on Text Mining and I may be able to use some of it at work.
+3.0,Can't get enough data out of twitter anymore to be interesting
+2.5,"Los videos tutoriales y los ejercicios a resolver son lo mismo cambiano únicamente el término de búsqueda, la idea de los ejercicios es practirar y llevar más allá lo ya expuesto en el curso, no re hacer lo que se vio en los videos anteriores"
+5.0,I wish there is a follow-up class that covers mining Yelp and Amazon reviews + examples working with big data.
+4.0,"Course is great, just could have been descriptive for sentiment analysis."
+5.0,Excellent course for newcomers for sentiment analysis.
+4.5,Thanks ! Was helpful when needed ! I didn't find it more engaging as the codes are already writing on the console.
+5.0,This is my 2nd Udemy course and am very impressed with the author.  The course material is good. It serves as a good introduction to the packages for Text Mining and Sentiment analysis in R. I would recommend this course to other R programmers who are looking to get exposed to the packages in short amount of time.
+4.0,"Good introduction of concepts with sample syntax, but dated."
+5.0,I think this course is well designed. Most of resource of web scraping is useful
+5.0,I am by no means a new user to R yet I have learnt so much already!!!!!!
+5.0,Simple and effective course delivery! Loved it :)
+5.0,"Great course, well worth the time."
+5.0,excelente curso explicado de manera clara
+5.0,"Very good course, good pace and well explained. Well worth the money"
+3.0,"Good course to learn sentiment analysis - However, more details and advanced topics would have been helpful."
+5.0,"Esta haciendo una introducción a las herramientas que se usaran en el curso, es decir, nos contextualiza al respecto de la generalidad. Aspiro a que cuando entre a lo particular sea igual de exhaustivo."
+1.5,"VERY STOPPED, the teacher has all ready and just talks"
+4.0,Very clear explanations
+5.0,Martin and R-tutorials is the best way to learn R. He has incredibly deep insight with R and statistics.
+4.5,it was a great experience and really its a fun...
+3.5,Expecting a lot more topics in text mining and sentimental analysis
+4.0,basic explanation is good
+5.0,excellent experience
+2.0,Voice is really specific
+3.5,"Till Now, its fine and good.. Expecting more indepth coding to analyse the data"
+3.5,Excellent course for begginers
+5.0,I liked the topics covered in the tutorial. I even got a few ideas how to use those topics in my blog.
+5.0,"congratulations, very good."
+5.0,"Looks good, but looking for some real challenge now."
+4.5,Very hands-on examples.
+4.5,"Contents are well introduced.  I miss more detail in certain bits concerning the registration. So far, good."
+3.5,So far the instructor was able to share quite clearly and laid the groundwork for more works ahead.
+5.0,Awesome
+1.0,"I do not understand the purpose of going through the pdfs. That is silly, waste of time."
+2.0,The lecturer should provide package information more simply and make the explanation more simple or more understandable. 50% or 60% of the explanation is redundant.
+0.5,"The material is outdated (2 years old) which means that some of the functions are not even available no more. Also, R has been offering for a few years now an excellent way to present code in RMarkdow, what's the purpose of using slides for which I cannot even see the output of the code that is run? That would probably help especially in those cases where the code is outdated and doesn't run."
+4.0,Good detailed explanation
+3.5,very short section
+5.0,it gave me new things already
+1.0,Hat leider schon bei der Authentifizierung gescheitert
+4.5,very good
+5.0,"This is easily applicable in marketing (my position). It is a quick and dirty method to see the opinions on Twitter regarding a product, company, person, etc. worth the time"
+3.0,Interesting
+5.0,This teacher is amazing! The material recommended is totally incredible.
+0.5,"Really bad. Bad structure, bad content. Not easy to learn."
+1.0,Nothing practical so far.
+5.0,"A nice way to analyze Twitter. Everyone can understand this approach, simple lexicon."
+5.0,superb lecturer.
+4.5,Fine so far
+3.0,Not sure if this course is going to be up to date at this point
+5.0,Hands-on advice
+2.5,Nothing constructive yet.
+3.5,Haven't gotten far enough to give it a higher rating.
+5.0,I love this course! very useful
+5.0,Yes
+5.0,Good start
+3.0,Dont know yet
+5.0,So far so good
+5.0,Excellent!
+5.0,"I was totally new to text mining, and this one was easy enought for a beginner to follow along and to understand the concepts."
+4.5,"interesting content, easy to follow"
+4.5,Best course
+5.0,good
+2.0,I was a expecting a more hands-on approach with tests and quizzes to learn alongside the course....now I need to redo the entire thing multiple times to get some kind of mastery over the topic.
+4.0,"I rated this course a 4 because the content delivered was true to the objectives communicated.  I enjoyed the entire process of learning how to use Twitter to harvest tweets, then using R to process those tweets, and finally using Tableau for visualizing the data."
+5.0,"This is a great course and well prepared. The instructor is making it easy to learn the R code. The best part is the integration. This  course is like a capstone project. It shows one how to do a project from scarping data and clean data, analyze data and visualize data.  I am happy that I chose this course , put time and efforts on this course.  Many thanks for the instructor. Wonderful job."
+4.0,"Great course, very helpful. However, the instructor moves very quickly at times. I had to pause-unpause often and even watch this at 0.5 speed several times. He does things without narrating sometimes and the mouse moves so quickly it's a bit tricky. Other than that, highly recommend!"
+4.0,"Very good practical example used, only would have loved to have more insight into sentiment analysis in r using other techniques not just the lexicon method."
+5.0,"Great course on how to setup text mining using RStudio, data curation/cleaning, sentiment analysis and how to visualize this data using a Tableau dashboard.  Highly recommended!"
+5.0,This is a very useful course that is a good introduction to text analysis and the manipulation of r tools
+4.5,Curriculum is well laid out and articulated for learning how to extract and munge tweets; structure rules for opinion mining; and visualize the sentiment analysis.
+3.5,"Overall this is very good. I feel there are some small gaps - though they could be inside me - it is never easy to separate one's own deficiencies from the instructor's content. If I don't have a means to extract a .rar file for the lexicon, it's my fault, I suppose. But it's a crucial step that would trip up some basis users. 7-zip got me through it. Overall I like it and the instructor, and that was just one example."
+5.0,Marten has created another great and very practical course. He has struck a  balance between  demonstrating complexities in R and moving the analysis to Tableau to illustrate  insightful aspects of the data collected from twitter. The approach is lexicon based and Marten has outlined the pros and cons of the approach. I would like to see alternative ways of harvesting twitter content to include emoticons to complement the lexicon approach.
+5.0,"Wow, this course is fantastic!! I completed it over two days and I can now perform sentiment analysis on tweets in R, explore the data in Tableau and present the results in an interactive dashboard. This course really takes you from 'absolute novice' to 'highly skilled at performing sentiment analysis on tweets'. As a result I feel confident adding 'sentiment analysis' to the skills section of my CV and know that if I am called on to do one, I will be able to do a really professional job of it. And as an added benefit I learnt a lot of new R commands and A LOT of hands-on Tableau stuff. Altogether an incredibly worthwhile course! I can't thank the creator enough!!"
+4.5,I knew nothing about R or Tableau and this course really helped me a lot to keep my project easy and simple.
+5.0,very good but require little bit slow
+5.0,"Overall, the course was really outstanding. Two elements are covered that are so important and difficult to find information:"
+4.0,"The sections on R were interesting - the section on Tableau was less interesting, however generally this was very good."
+5.0,I have been struggling to find a course in tweeter Analytics until I enrolled for your work and i can't complain. The material is easy to understand and really interactive and applicable at the same time. I had little knowledge in R but the seamless with which the course materials are delivered is just precise. Thanks man
+2.0,"There are no links to download code or data for the lexicon. There are several places where there are jumps that are not explained. Overall, I think this is the last time I try one of these courses. I am able to move along thanks to outside websites that cover the same topic and give more detailed information."
+5.0,Much helpful course for analyst. I am glad to see this course on udemy. This is very systematic approach for a case study.
+5.0,Thank you very much. I could follow the explanations very well and apply the to my own data. The instructor speaks very clearly and presents the content in a sistematic way.
+5.0,It was because it introduced me to Tableau and familiarized me with coding.
+5.0,"I needed to do analysis on text data I had already harvested - so I didn't need the R part of the lesson, but I learned a lot about extracting insights out of text using Tableau calculations and parameters"
+5.0,Very very amazing course
+1.0,lots of errors in between we get stuck and there is no one to help the course code is too confusing to follow
+5.0,Yes. I'm learning about how these programs work in conjunction.
+4.5,I want to learn more and to practice. That's great. Thank you.
+4.5,"Instructor is very good in delivery.  The presentations are clear, concise and direct.  There is no halting speech, repetitive comments or irrelevant discussion. "
+4.5,"good content, but a few more exercises would be nice."
+5.0,"This is really good, I'm learning a lot of new techniques and the instructor is really good at explaining clearly. I have only little R experience and I find the level and path really comfortable."
+3.5,Detailsaboutconnectingtotwitterareobsolete.Theyneedtobeupdated.
+4.5,This is a great course. Thank you so much for doing this course. :)
+5.0,Amazing course with sentiment analysis concept
+4.5,Yes this is very helpful even if I am not going to use day to day
+5.0,Super strukturiert und nachvollziehbar erklärt
+5.0,your tutorial is very clear...thanks a lot.
+5.0,Enhancing Tableau with R capabilities is a good idea. 
+5.0,"It is surprisingly easy to integrate R into Tableau. There is even a feature in Tableau that lets you do that. At the R side there are some packages that need to be installed first, but these are explained in the course. "
+5.0,so far so good. love the new format (business case based)
+5.0,Its good and better explained....
+5.0,Interesting concept which I did not think about so far. The course videos follow a logical order. The slides do support a lot in understanding the material. Overall well developed.
+2.0,the course is outdated! and no effort has been made to change it
+5.0,Very helpful and friendly support when there are questions - even for questions outside the course script
+3.5,Good course.
+5.0,very good way to explain
+5.0,So far so good!
+4.5,great information
+5.0,The course is easy to follow. Interesting approach to sentiment analysis.
+5.0,Yes it was good
+5.0,I think the use case outlined here is relevant in the real world. Instructor videos contain extra slides to follow the code. Much info packed in a few hours.
+5.0,Good quality so far. Course is exactly what I expected. Actionable advice.
+4.0,easy to follow and comprehend
+5.0,The method shown in the course is quite interesting. I could not find it somewhere else so far. Basically you are combining Tableau and R to get a nice graph and to display the results. Videos are really clear and have a good pace.
+5.0,Step by step instructions are easy to follow.
+5.0,"The idea presented here does make a lot of sense if you need to present data to a wider audience, especially in business and marketing. That is why I took it and I am positive that I can use the method at work."
+5.0,Very good video presentations. And the course structure makes sense. It is a combination approach with R and Tableau.
+5.0,"the content is presented in an easy going way, which is great. I could follow along easy although R is not my strength (yet)."
+5.0,"Awesome, the Tableau training was very valuable"
+5.0,"Speed of delivery was very good, slides in the videos help a lot in understanding the concepts. Course is great for people in marketing."
+3.0,needs to have some more basic knowledge before going straight into technical terms.
+5.0,Pace and delivery are very good. I would take this course again since I learned what I needed.
+1.0,"Awful , you need a develepor account which is way hard to get , these bastards wont tell you that ."
+4.5,I enjoyed this course. Useful and Applicable
+3.0,provide some bookmarks for this required
+1.0,"The description of this course did NOT mention that Twitter made it much more difficult to obtain developer accounts. Despite following all the directions in this course, I was not able to get authorization to collect Twitter data, which is STEP ONE, and without it, this course is useless."
+4.0,I am new to analysing twitter in R & this is interesting so far.
+5.0,I am pretty convinced that I can use this on a project at work.
+5.0,Very easy to follow lecture
+5.0,its awesome
+4.5,yes
+3.5,so far so good.
+4.0,.
+5.0,NA
+5.0,good
+5.0,Good
+5.0,good course
+5.0,Well explained all the concepts ❤️Bam!
+5.0,"An amazing experience, Thank You."
+5.0,"Amazing course ....... Because of this course, I am capable to supervise multiple MS thesis .... Thank you Dr. Taimur for such a valuable course"
+3.5,Many videos were not fully recorded and the volume vary in each video. Examples were good but could be explained further
+4.5,Professor TAimoor khan made Text Mining accessible for someone like me with very little programming experience. The step-by-step approach breaks down Text Mining neatly.
+5.0,Pro: Course contains many notebooks with detailed explanations of how to implement text mining.
+5.0,"An outstanding course that provides a ton of missing details not covered in other courses. Kudos to Sir Taimoor for his teaching style, passion and wealth of information!"
+5.0,An absolutely wonderful course! I learned a lot about text mining. I think it is a must-take course for those who are interested in project based learning.
+5.0,This course widely covers Text Mining topics and explained very well. The codes are practical and useful. I'll recommend to everyone who is interested in Text Mining.
+4.5,Very useful Boot camp for beginners in Text mining. it takes you from scratch
+2.0,Can not follow all explanations.
+5.0,Don't underestimate the tutor if you aim to become Pioneer in Machine Learning. Both thumbs up !!!
+4.5,Amazing
+4.0,"It is going very good until now. I found that it is very to the point without creating any confusions. Yeah, It is very much helpful for me. Keep it up"
+5.0,Very Helping course and very to the point and precise explanation of every concept
+4.5,Simple and informative.
+5.0,"Exceptional! Gets right to the point and explains very well. The instructors explained everything clearly and nicely, just what I needed."
+5.0,Beautiful Professor !!
+5.0,It is so simple to understand for a beginner as well
+5.0,Excellent Elaboration
+3.5,audio is poor
+5.0,"Amazing, above expectations! recommended."
+5.0,"Clear, simple and concise"
+4.5,Good illustration with good pace.
+1.5,Instructor is explaining the concepts at very fast pace and the conceptual and code explanation is not for beginners.
+2.0,its my fault that i didnt grasp the statistics behind ML models
+5.0,"Really good course. Covers exactly what it promises, which is text mining for beginners! There is no redundant information, such as introduction to python or extensive no sense theoretical talks. Someone who knows python and data modeling, just comes here to learn text mining."
+4.0,Good for beginners and but requires some familiarity with Python.
+5.0,Superb Course ! The instructor has explained the output in detail and ensured that user can understand why he is doing a particular step.
+4.5,"Course is well organized. I got a basic understanding of NLP concepts like tokenization, lemmatization. I understood the context of Naive Bayes for sentiment analysis and for document classification problems. Explanation for solving the classification problem using NLTK and Scikit libraries is clear."
+4.5,I loved this course. Explanations are very precise and emphasized well.
+4.0,Experience was overall good . Learned a lot and the modules were up to the point . A great learning experience.
+4.5,"It was very easy to understand and straight to the point . I was hoping for some more contents on topic modeling but since this is a beginners class, the course fits its description"
+3.0,The content was good but the person presenting needs to be learn to talk in a way that doesn't go up and down so much and halt every other word. Its very distracting.
+4.0,"It's exactly what it promises. Includes some data and python files, good walkthroughs. Really can't complain. Good for a short, free course on NLP."
+4.0,"For free good for nlp absolute basics, I would recommend watching this first and after that moving on different courses, because nlp has a lot of little things you need to remember"
+4.0,"The Course was well organized, perfect for people who are just starting with NLP. More, courses from Statinfer Solutions are eagerly awaited on other Machine Learning Topics."
+4.0,I have attended couple of other courses in various platforms and I can definitely say that that your way of explaining Bayes theorem is best so far.
+4.0,The course till now is very good. It provides step by step process of how to process data. However the video content is bad in each video and that makes learning difficult.
+4.5,"a little bit too much repeating the same things over and over, but the content is in general very interesting and presented in simple and structured way. for a total newbie it was easy to follow."
+3.0,"I cannot find the supporting codes and slides for the class. If I can get access to these resources, it would be perfect."
+4.0,The class was helpful and informative. The math equations were a little unclear for me.
+2.5,The coding examples could have been more clear. The tutor can explain the code rather than just executing it.
+5.0,"This course has been very helpful, it will take you through all the essentials down to intermediate level, but of course you will have to do the labs to get to advanced levels. I enjoyed this course and i would recommend it to those interested in data analysis, text data is very important also."
+4.5,I want to do text mining on dataset. These dataset i have but i can't do text mining for all fields which are present in that dataset so i request you to tell me how to do this. I want to perform TFIDF algorithm on dataset.
+4.5,"Very Informative, appriciate"
+4.0,Course is highly helpful for beginner as text Analytics and explanation is clear and concise.
+4.0,"I am a beginner to intermediate python user, and i find this course useful. However i am struggling with coding. EIther you are skipping some steps or maybe you are too focused to teach what the title of the course says. Overal its a very good course, just that i rate it as per my experience."
+5.0,This was a good intro into NLP with python. I loved the projects (real life examples).
+4.0,great course!
+5.0,nice one......  go for it if you wish to learn basics of NLP
+2.5,I can not follow some of the talks. the instructor has a strong accent.
+4.5,Very good course to begin with for  NLP and sentiment analysis
+5.0,The instructor is very good. He explains very well in simple language.
+3.5,"O curso é bem aplicado, mas poderia ter questões que fizessem a teoria ser mais aplicada."
+5.0,"Great course, well explained each and every topic in easiest way."
+3.0,"I've missed the practical part, exercises or training sessions"
+1.0,very monotonous failed to develop interest..its simple the code walk-through no details about concept ..very disappointing.
+5.0,Excellent and clear way of explaining for someone who is just getting into text mining.
+2.5,You must explain what is spider.
+3.0,It's hard to hear the voice clearly (
+5.0,Clear and crisp explanation. Wish he could teach Machine Learning with Azure
+4.5,step by stem narration is very effective
+5.0,Good analysis and very much relevant
+3.5,It was a good lesson. Thanks.
+5.0,This course contains a very detailed review of the NLTK package
+5.0,Amazing and great efforts!
+3.0,İyi olacak gibi.
+4.5,really good for absolute beginers
+5.0,Good for beginners.
+5.0,GOOD START FOR NLP BIGINERS
+4.5,This course perfectly matches what I supposed to learn
+5.0,Nice collection but felt sleepy.
+5.0,"As a beginner, this course is perfectly match for me. He is explaining very well from basic."
+4.5,Very nice lecture that begineers can also understand.
+4.0,"yes, it is good"
+4.0,Nice learning experience.
+5.0,Very informative sessions. Thank you.
+2.0,Seems a bit sloppy and not as easy to follow as some other Udemy Python courses.
+4.0,too fast
+3.5,"yes,this is a good match to start a NLP."
+4.0,Very Nice and crisp course
+4.0,Bcz of good streaming
+5.0,yes
+5.0,Good
+5.0,good
+2.0,The course content and instructor did not resonate with me.
+5.0,So far simple to understand
+5.0,good
+5.0,Awesome.
+4.0,goood
+3.5,descent
+5.0,Excellent course for beginners like me to understand NLP terminologies.
+5.0,Well explained everything.
+5.0,The most amazing and easy course on NPL. This is one of my best course.
+5.0,I never thought that learning Natural Language Processing could be so much easy. You have explained everything in a very simple way. Thank you very much!
+5.0,So far so good. This course has increased my interest in Machine Learning especially in NLP.
+5.0,The instructor has explained such an important concept in simplest manner with the help of practical examples.
+1.5,The instructutor does not provide the necesaary guides as other courses about how to install correctly the proper material for the course
+5.0,The instructor has an excellent way of explaining the utility and power of Machine learning in R for data/text mining and natural language processing.
+5.0,Interesting course for learning the importance of machine learning in R for data and text mining and natural language processing.
+4.5,I really liked the scope of the module. So far the learning has been great!!
+5.0,Excellent presentation of such an important and valuable course by the instructor.
+3.0,"The instructor doesn't explain a lot of the functions, methods, and their intuitions. For example, in the section on HTML scraping, why are we suing function(x) in sapply to extract words spoken by Trump or Clinton?"
+5.0,One of the best courses on data/text mining and natural language processing. The course has vast avenues for practical usage.
+5.0,Data mining and natural language processing in R is a course which can be of utmost usage in practical applications. It contains valuable information. The instructor has complete knowledge of the subject. Her lectures are interesting and engaging.
+3.5,Relevant topic; code details are frequently only poorly explained limiting the understanding of the code and the ability to tweak it where needed.
+5.0,The course is ideally suited for my work as it deals with the utility of machine learning in R for data/text mining and natural language processing. Practical examples make the course all the more interesting. The instructor has total command over the subject.
+5.0,Consistent and constructive course. Recommended!
+5.0,The course was simple to follow and learning was made simple.
+5.0,Outstanding course
+5.0,I love that this is effortless learning via my mobile phone.
+3.0,examples and files are not in a good structure. The video of course 58 does not fit together with the presented content. No voice o at the end of course 59. Overall it is a good overview of the topics DM and NLP in R
+5.0,Data mining and natural language processing in R is the course I was looking for. The course is ideally suited for my work. The instructor's teaching style is interesting and easy to understand.
+5.0,I find the course interesting and certainly value-addition to my domain knowledge. The instructor has planned the lectures in the best possible way to make it easy to grasp. Her knowledge of the subject is extensive and updated.
+5.0,The course is very valuable for my work and has immense potential for its useful applicability. the instructor has a fantastic way to bring home various aspects of the contents of the course.
+5.0,Very interesting course. Everything is perfect. There are lots of quizzes and resources. Generally big course like this drag the lectures. But this course lectures are informative and not dragging. Totally satisfied.
+5.0,"Phew...! Finally finish watching all sections. Really loving the course and the way instructor delivers and clears our concepts are tremendous! Very deep, practical knowledge, very good teaching style!"
+5.0,"I absolutely enjoyed this course, very informative and very important resources! New things are being uploaded continuously. Excellent course for data mining!"
+5.0,There could have been more information about the Data Mining & Natural Language Processing in R. Really enjoyed the course. Really nice and comprehensive course!
+5.0,"It wasn't easy to find an informative and perfect course for Data mining in R. I have several hours to find this course and guess, I am totally satisfied! This course is organized, informative, lots of resources and well explained. I appreciate the hard effort of the instructor!"
+5.0,"""R Programming"" forces you to dive in deep. These skills serve as a strong basis for the rest of the data science specialization. Material is in depth, but presented clearly. Highly recommended!"
+5.0,Excellent resource for learning data mining & natural language. It is truly valuable. I wish there were more practice problems during the course. Thank you for such great course!
+5.0,Really enjoyed the course! Excellent resources and the combination of theory and practical is just awesome! Data mining is really easy for me know!
+5.0,The course contents are very useful for practical application. The concept has been brilliantly explained by the instructor with practical examples.
+5.0,The course has great content and materials. Sessions are awesome! I must say this is a premium one. I learned so many things. Data mining is fun!
+5.0,It's hands-on course for my purpose. I will be able to apply the concepts in my research. It contains vital and critical information which has been brilliantly explained by the instructor in the lectures.
+5.0,"Great explanation! It is really an amazing course. As I had some general idea of  Natural Language Processing, This course was so easy for me!"
+5.0,It is a well-designed and intense course on data mining and machine learning. Quite intense and good R details
+5.0,Content is good and well explained in simpler way so its easy to understand. I believe no one could explain such a detailed way! Thanks a lot!
+5.0,Great course & lots to learn in this course! The sessions are very very easy to understand. Resources are  very good. Really enjoyed!
+5.0,It is a good quality resource on data mining and very hands-on implementation in R. I like the use of real data
+5.0,The instructor is very knowledgeable and I have learnt many practical data science techniques in R. I hope to use these professionally
+5.0,I am enjoying the course and it is very in-depth. The focus on temporal data is a nice touch. I would recommend having some lectures on recommender engines too.
+5.0,I was looking for this kind of information for my research. the course perfectly matches with my requirement.
+1.5,"Beginning was very good. Bit when it comes to supervised learning it become mess.Also Author dosenot writes code online.Somecases not executes functions,which was written."
+2.5,"Excellent topics, great coverage but the rest is a box of assorted chocolates. Please revise the course and let me know. I would like to re-do the complete course."
+5.0,Very detailed course. I am learning a lot and the part on data mining in R is well explained
+5.0,This is one of the most cohesive and comprehensive resources on data mining and machine learning out there
+5.0,"I'm enjoying this course. It's quite a time commitment with a full time job, but examples are well explained and "
+5.0,Very intense course on data science in R. Thanks for covering the part on feature selection
+5.0,A very good structured tutorial and beautifully exemplified theory. Big thumbs up! :D
+5.0,Kind of slow for people with prior knowledge of image processing. But I suppose absolute beginners will benefit from having a detailed overview of R
+2.5,1) The Course coverage is good as its touched upon all critical concepts of data analytics.
+5.0,"This course is very important for personal and professional development, I believe everyone should take such a course."
+2.5,"I don't like that she just runs a line of code without really explaining the parameters of the function and when line of code is wrong, she skips it instead of trying to make it work."
+5.0,Very good introduction to data mining and analytics in R
+5.0,Covers all concepts and examples nicely. Nicely structured course.
+2.0,Very mechanical course that only teaches you how to run different codes in R without giving any detailed explanations on how and why different input values in different algorithms impact these algorithms and how the algorithms work.
+5.0,Lot of R related tips and tricks have been covered
+5.0,What I love about this course is the delivery of content.
+5.0,I am really interested in real world data mining and this course has really started off quite brilliantly by explaining the different modalities of data acquisition
+5.0,All the topics are covered with a great detail
+5.0,Its trying to cover too many topics of R data science but very good once you get a hang of things
+4.5,"Super clear, efficient and helping! Thank You Minerva."
+5.0,Great info. Fantastic delivery. Thanks a lot!
+5.0,Very detailed course on data mining in R. I like the quizzes
+5.0,Very hands-on and practical resource on data mining in R
+5.0,Its complicated at start but gets better. Good intro to associations
+5.0,Good indeed! Many thanks!
+5.0,Its a very information-dense course on data mining in R
+5.0,Perfectly done!
+5.0,innovative and useful method.
+5.0,Useful for me. Very knowledgeable program.
+5.0,Very detailed course on data mining with R
+5.0,"Exclusive one! This guy is best presenter of tech topics I've ever seen online. Easy to understand, paced just right."
+5.0,Very good course. It is very knowledgeable
+5.0,Very well put together data science course in r
+5.0,I really enjoyed this course. The instructor was easy to understand and gave lots of tips and tricks. It will be Very Helpful And Informative for everybody. Go Ahead Madam
+5.0,A lot of data mining with R
+4.0,well explained
+5.0,"This is my first course with Minerva, but I will definitely be checking out all of his future courses. I highly recommend him to everyone."
+5.0,This course was very much informative.
+2.0,The instructor provides no context or motivation to the problem.
+4.0,"I'm having some trouble with the professor's accent and the velocity at which she explains, but I'm actually enjoying it."
+5.0,Very interesting course For Data Mining & Natural Language processing.... Deserve 5 star. Thank you for your excellent teaching ....!!
+5.0,I have always been afraid of Data Mining & Natural Language Processing in R.
+5.0,I like the detailed information and some background information too.
+5.0,"Easily communicable course, worth it"
+5.0,This course made me confident and gave me some knowledge of data analysis. I am looking forward to finishing the more Data Science Advanced course. Appropriate learning pace and very clear instructions provided!
+5.0,It was a great course where I learned a lot about data science.
+3.0,issues with preloaded datasets not being covered
+5.0,Knowledgeable and informative
+4.0,Informative
+1.0,"It is not taught properly... what kind of method are used, why it is used .... no proper explanation...disappointing"
+5.0,All the sections are very informative and easy to follow .
+5.0,"Loved the course very informative, easy to follow and understand learned a lot!!! Getting ready to apply the lessons learned. Thanks Minerva For Providing awesome Data Science course"
+1.0,Datasets are not ordered. there is a lot of missed information.
+5.0,This was an informative course and gives actionable items to start with.
+5.0,The course is very well structured. The course instructor is very clear in explaining the terms.
+5.0,"I have the initial understanding of statistic, but after going through this course, my concept of regression is more clear. Real world example used for the explanation helps us to understand the implementation of the model in a right way. Pace of the course is also good for all level of participants. Overall great experience with this course."
+1.0,"way too fast. Rattle isn't working properly, no answer is given as to why this is the case..."
+5.0,its a wonderful course and full of info. i recommend it to everyone. Great Experience
+3.5,So far so good.  The aspect I struggle with is being able to keep up with the instructor and tracking all of her button click locations.
+5.0,good stuff thks 4 it !!!
+2.5,Not at all for the beginner. I'm so thankful to have a husband in Data Science to help me figure out how to get my R and R Studio to the same place as the instructor. The introduction makes many assumptions about what you already have downloaded! I'm soldiering on because I can see the potential uses of these skills. A future modification to this class that would have helped would be to go through how to load packages and then to give a list of the packages and data sets that need to be loaded (ex: diamonds did NOT come preloaded with Rattle)
+2.5,Graph reading Explanation is very less.
+5.0,Al together a unique course and perfect guidance of Instructor. 5 star rating to her. Really nice
+5.0,Predictive mean mapping method is just awesome
+5.0,"I found this course very straightforward to follow. This R Programming Course for Data Science enthusiasts is absolutely great! Without any basic knowledge of programming, you can directly dive into the world of R. Minerva is one of the best instructors on Udemy, hands down! Some of the tough concepts were explained in a constructive and practical manner. I will highly recommend the course to beginners!"
+4.0,Good lesson for a new of R.
+5.0,"Amazing Instructor, Loved the way of Analyzing and explaining the each piece of code. I'm looking forward for his another Course. Thanks Minerva"
+5.0,"Nice introductory course, helped me to understand the basics of R and be able to move on to more complex R tasks and packages. The Instructor does an awesome job of ""making the complex simple""."
+5.0,Before starting with this course I actually didn't know anything about Data Science and this course helped me to explore some R functions. I think that it was a good experience.
+5.0,"Amazing! I am very new to Data Analytics. I was doing bigger course and part of it had R Programming. But, I felt that was limited. So, I came to Udemy to look for R Programming. Now, having done this course, it laid a strong foundation for that. I am grateful to Minerva."
+5.0,"For a beginner like me, it was easy to learn and understand R programming through this tutorial. The examples used in this tutorial were something which we could relate to and easy to understand. Thus it made learning more interesting. I would appreciate few more course in the topic. Thanks Madam"
+5.0,Very effective and comprehensive course! minerva's explanation is straight forward and her lecture notes are very handy and easy to understand.
+5.0,The most i liked is that Minerva gives main ideas perfectly. this course is perfect for beginers. Thank you so much
+5.0,"Fantastic Course.. Before starting this course, I had zero knowledge of R programming.. Minerva Singh is an excellent tutor. The course starts from the very basic and builds up concepts slowly and steadily. The challenge exercises are really thought provoking. I'm excited to attend the advance course now. This course is lot better than learning through a book."
+5.0,"I really enjoyed this course. This was my first go at coding. The instructor was easy to understand and gave lots of tips and tricks. Although it moved pretty quickly, I liked that I could pause, rewind, and learn at my own pace. Thank you. I now feel empowered and ready to move on to more learning data science and data mining R."
+4.0,Very good and useful for me
+5.0,Informative course
+5.0,minerva is a really good instructor. He explains everything very nicely making it easier for students to understand the topic.
+5.0,"She was very clear, concise, and knowledgeable."
+1.0,Instructor is less bothered about really teaching you something but just wrapping up quickly the topics she has to cover.
+5.0,Your Creativity is always Exclusive. Love It
+5.0,I was completely new to R and this was very easy to follow. The exercises were fun and Minerva was very engaging.
+5.0,Knowledgeable
+5.0,it was my comfortable course. All the data science courses that I have seen so far were not like my mind
+5.0,"I really like the way the course was layout in a very friendly speaking pace, with a lot of back up resources."
+5.0,Aan het begin van de cursus voelde ik me net zo veel als het was
+5.0,Nothing is perfect.....but this course was pretty close to perfect. I hope you can to be successful Teacher.
+5.0,I find this course really good. minerva gave me the feeling of security and she is explaining things really well.
+5.0,"I finished the course, liked the way the course is presented. lot of examples... The course was amazing."
+5.0,"Smart, love the way she thinks about things."
+5.0,"Fantastic Course.. Before starting this course, I had zero knowledge of data-science."
+5.0,Very informative. Awesome course!
+5.0,This is a very efficient course because instructor covers as much as about the topic .
+5.0,All the topics have been very easy to explain
+3.5,It's a good match but facilitator is a bit fast
+5.0,I enjoyed all of this. You will definitely learn new things .
+5.0,This course is great if you want to grasp the concept of data science .
+4.0,I think the course matches my expectations so far.
+5.0,This was an excellent introduction to learning data science!
+5.0,After a long time I am finding course like this. Thanks Teacher
+4.0,Good teaching concepts
+5.0,Informative
+5.0,Very clear
+5.0,"Very cool topic, great explanation of the subject."
+5.0,Nicely explained. Straight to the point and short presentations are always the best.
+5.0,"Yes, it is a good course."
+5.0,Really loving this course!! It’s definitely one you want to listen to beginning to end .
+5.0,"Overall a great course! As always, from the Super DataScience instructor!"
+5.0,Perfectly explained for beginners. I wanted a structured course for a long time and finally found one.
+5.0,Wow! I wish I'd learned this a long time ago.
+5.0,Excellent course.... nice and to the point
+5.0,Very good for those who are new to data science!
+5.0,the course is both comprehensive and practical.
+3.0,Good start
+5.0,The course provides detailed and relevant information !!!!!!
+5.0,Really Excellent Course and honest Teacher.
+5.0,Learning a lot of great stuff!!
+5.0,"I learned a really great amount of information, tips, and tricks through this course."
+5.0,clear and concise course.
+5.0,"Instructor, is clear, engaging and informative!"
+5.0,"Comprehensive course, well-explained."
+5.0,The instructor was great in explaining things.
+5.0,Feeling Is awesome experience.
+5.0,मुझे आपका कोर्स पसंद आया
+5.0,More great content from Minerva.
+5.0,Really good course. Lots about data science.
+4.0,Good
+5.0,Very well structured! Explanations are clear and easy to follow.
+5.0,"Bon cours, pour les débutants comme pour les intermédiaires."
+5.0,Comme le cours
+5.0,Amazing course
+5.0,Great course and instructor
+1.0,not much about nlp
+3.0,"Course could be more direct. Some users might not understand the point or principles of variables. The introduction could be on the required programs and purpose of it. To some it up, keep it short and sweet."
+5.0,clear an concise. It may be improved by explaining how it can be used in the real world !!!!
+3.5,GOOD
+2.5,Meanwhile outdated.
+5.0,This course is very informative and well explained. Excellent video.
+3.0,The sound quality could be better. 
+4.5,"Often difficult to be seeing what the instructor has in the screen and what he is talking (it is difficult for the eyes to see the flipping in the screen); instructor often corrects what he say, and this makes it difficult to grasp the key content (has to rewind often)."
+5.0,"Amazing course Geoff, like always!"
+2.5,The course is elementary in nature and has good examples. It will be helpful to those who are new to R
+1.0,"I'm disappointed that lecturer is not able to explain some things and is referring to ""I've tried but could not understand"". I don't think this is worth mentioning if you really tried and have not understood."
+4.5,All is good but i'd like that we can see more complex models
+3.0,Instructor should be more prepared for the course.
+4.0,"Content is Good,but going at a slower pace."
+2.5,Quite boring also the instructor is not confident enough hence not able to make us understand the logic behind every code.
+2.5,"Seems that the lecturer could have prepared a little bit better for making the videos, not to get puzzled and lost in its own code."
+4.0,"It is little hard to follow the lecture with so much code on the screen.  Sometimes, I can't tell what he is pointing to as the cursor is hard to see. It really isn't necessary to try and cover every tidbit in the R index.  Pick the most useful data science tools based on your experience and delve into those.  We can add other details as we explore through our own experiences."
+1.0,"There was a mistake in the association Rules formula for Support. It has to be intersection and not union. I am disappointed that despite double checking , the author is providing this key definition wrong. One has to get conceptual and Mathematical understanding right before delving into the coding."
+3.0,code doesn't work in alot of these tutorials
+2.0,the course is not understandable for hearing and the structure is not by any metodology
+3.0,"The instructor's guidance to ""learn by using"" isn't reflected in the first few minutes. The asides during instruction are also a bit distracting; however, I look forward to the rest of the instruction."
+3.5,"The content is not bad, but could be explained in a more concise manner. The lecturer sometimes is not confident; he forgets some details and immediately admits that :)"
+2.5,A lot of dummy words and a lot of questions dont answered
+4.0,so far so good
+5.0,Great course! I'm learning a lot in how to Data Mine with R.
+4.5,Thanks.
+4.5,"It was helpful in many ways however there were a few moments when I got stuck while watching the videos as there are a few out of date things to deal with. Overall amazing course, good speaker to guide too."
+1.0,the instructor will not respond to your questions if you have any. The last response related to two years ago.
+4.0,Awesome course and very well explained! Kudos!
+5.0,"yes , excellent teaching"
+5.0,"Honestly telling I would have taken this course at very early, concepts are explained briefly and concisely . if someone want to taste the flavor of NLP this one will be my first suggestion. Thanks to Bijoyan. If he features new course (mainly project based) on NLP with deep-learning it will be a no brainer in Udemy platform. Thanks once again."
+2.0,"The instructor doesn't really explain what he's planning to do in a particular lecture or section. He just starts off writing some code without explaining the objective, naming conventions and the concept expecting us to follow. This is not a good strategy to teach students effectively."
+5.0,great
+4.5,audio/sound level is too low. cannot hear very clearly
+4.0,This course is helpful. But the instructor rarely responds to the questions.
+5.0,the course got into the coding of many of the real world applications. it gave a great insight.
+4.0,"The course is good, the student should be paying attention because the lecturer made some mistakes. But it is a good introduction to text mining"
+3.5,It is good course to start with but I still believe there is scope of improvement. Having said that somebody who has just started exploring NLP with Python will find the course useful.
+4.5,I am very inspired by the fact that the instructor is a young man sharing his knowledge through this course. I am sure the future holds great things for him. The explanations and the flow and the examples are all well presented. Only not sure if the coding (layers of nested for loops and if conditions etc.) is efficient and the best practice in the real world. Overall it is great course for someone looking to be introduced to NLP with some limited background in python & ML .
+4.5,"Very good course for beginners, particularly the projects at the latter half of the course."
+4.5,"I think it is one of the best course to learn NLP. This course carries you from the beginner level to the advance level. Thanks to the instructor for preparing this course. Hope to have DeepNLP course also, v soon. Thanks"
+4.5,"This is one of the best course, i see. Though there are some issue, like font size, code should be in center of editor."
+5.0,This course is perfect to learn NLP for beginners. It covers the background knowledge regarding the various libraries used for deeper understanding of the the topics. It has helped me in successfully implementing my summer internship project using NLP models.
+5.0,This course is really good for beginners.Instructor is also experienced and he provided the best solution of my queries.
+4.5,"J'ai trouvé le cours très intéressant car il explique comment sont calculées les représentations des moet dans les textes pour faire des analyses et les projet sont très intéressants car ils expliques commet utiliser les réprésentations  (BOW, TF-IDF, n-gram) basées sur le  comptage d'occurences des mots pour des problèmes concrets de NLP certes de petites tailles. Aussi dans le cours,  des librairies sont utlisées pour aller plus vite dans certains calculs."
+1.0,"This course is really bad. The instructor shows very poor understanding of the theoretical background, often gets things wrong (e.g. what the files and columns of a confusion matrix represent), and in many lectures does very little apart from typing the commands without explaining them. Poor value for money."
+5.0,"It is fun to have hands-on experience on NLP, which is currently in trend. The explanation is concise, and I especially like the knowledge about scraping online news."
+4.5,The course is very good for me who has limited experience with NLP. It gave me an overview of what NLP is and a hands-on experience of building some small applications. the pace of the course is just right. I definitely have learned a lot from this course that fully met or even exceeded my expectation
+4.0,"The course was impressive and highly informative, covered a lot of information on NLP, would have been nice to have some deep learning enclosed in the package."
+4.5,Overall course was good.You will get all the basics of NLP and its  implementation using python by doing this course.
+4.0,This course is structured in an organized manner with projects and easy to learn. Good for beginners to learn NLP with Python !!!
+1.5,"For a very shallow intro this isn't bad. I really expected to get more out of this course. When you compare this to other NLP/data science courses, you simply don't get the level of detail and expertise as some of the other courses. He will move over things that are very relevant to understanding the process, so if you just want to copy code and do what he does, this is right for you. If you want to understand what's ""under the hood"" this will leave a lot out. In a lot of courses you have to do a lot of research externally, but I really don't think this course gives your enough to be worth while. I really got tired of him saying things like ""We will not cover that on this course"" about 50% of the way through. he will occasionally direct you of where to get the additional information, but I would try another  course if I knew this from the beginning."
+5.0,Absolutely clarifying and educating. A perfect place to code the basics in python and get all the usefull training and info to start in NLP!
+4.5,Clear explanation in a good pace. Got me started with a project I‘ve been dredging for a long time
+3.5,"I found some nltk modules to be useful. I mainly enrolled in the course to find ways to extract key concepts from scientific literature, so while NLP is useful for general population text analysis, the applications may be limited for me."
+5.0,Bijoyan Das is very good teacher. He explains concepts slowly and clearly. This is a complex topic . But the instructor has done an awesome job of unravelling the mystery behind text mining. I wish him the very best in his computer science career ahead.
+5.0,"By far the best NLP course on Udemy. I highly recommend starting here if you're interested in NLP. The instructor's python coding is also very intuitive and he does a great job explaining along the way. This was good for me. I'm a SAS programmer, and python doesn't immediately click with me."
+5.0,This course was the one i was looking for. I had already taken 3 courses in NLP but they were not worth it. Its a complete package for NLP in text.
+4.0,I liked all the chapters/videos except word2vec. It could have been much more detailed.
+5.0,The python overview is very good. I was not expecting to learn much but I picked up on many tricks. I also thought the NLP was very comprehensive and easy to understand. I will say I think this course might be difficult to undertstand for someone who has never coded in python before.
+5.0,This course is well explained by the tutor. I really like the content and it is for beginners in NLP. Big thank you for sharing this.
+5.0,Just started learning NLP and prior knowledge how python works and  i think i have taken a right step by taking this course
+4.0,"It is a good match as it is direct to the point, teaching the required hand-on skills that are useful in everyday work. The theory can be learned later as additional branches of the tree."
+5.0,The course 'Hands On Natural Language Processing (NLP) using Python' was excellent. The way in which the instructor delivers the content is engaging. This course is a must for someone who wishes to learn NLP with python and wants to focus on TEXT ANALYSIS. This course also teaches how to implement Machine Learning in context of NLP on Text Analysis. The instructor is very responsive and always answered all of my doubts and queries within few hours of  posting the same. Overall its a must do course !!!. A big thanks to the instructor and Udemy for bringing out this course.
+3.5,Course is great for beginners. Learned a lot. But trainer doesnt respond to the questions
+2.5,"There is litle information regarding the subject (NPL) on this course compared with other stuff. The instructor spent a lot of time on showing Python basics, Twitter API, Web crawler, etc that doesn't seems relevant on my opinion."
+2.0,"Not for beginners in python. Also, you ask question but you get answer (now 3 days and I saw others questions not answered more than a week). Sometimes, he writes long code (loop inside loop inside loop) so easy to get lost."
+3.0,"I am learning new things, thanks for making the videos.  "
+5.0,this is a very good course to get started with NLP. The instructor explains every single line of code that he writes. Theory and practical examples are very well combined. A plus is the pleasant and friendly voice of the instructor. I totally recommend it.
+1.0,i had a lot of issues watching the videos very bad connection with the page
+5.0,"For an intro level course, it is great. The instructor knows the materials and has a caring attitude of teaching. "
+4.5,A very Nice place to start applying the concepts of NLP if you don't have any Idea. The guide is awesome hoping for a more advanced level course from him.
+5.0,Please start making more courses more detailed and in deoth. You are a good teacher. Great job!
+5.0,"one of the best courses in nlp ,instructor explained very throughly every concept, thank u very much"
+3.5,"This course is quite thorough in covering all the basics of NLP.  The projects are a great starting point and really help. I would have liked a final project that we had to complete ourselves, but other than that I am satisfied with the course content and the instructor. One note to the instructor is maybe use Juputer Notebook as it was hard to see against the dark theme of Spyder. It is also more of an industry standard. I followed along using Jupyter Notebook which simplified everything."
+5.0,This course is awesome.. The instructor explain it very structured so there is no logic left behind
+4.0,content was good. covered all the required topics.. overall good experience
+5.0,This was an incredible course! It taught me everything that I needed to know to get started with NLP.
+4.5,This is a pretty good course to start with text analytics. Good demo of Python implementation
+4.0,The course is quite good for beginners.
+4.0,It is a great course to learn different concepts and problems that can be solved in NLP.
+4.5,The course and course content is apt to understand NLP.  All the concepts are described with proper examples and explanation.
+5.0,Excellent course this is. It teaches you many different usages of NLP and how to do it our own.
+3.5,"The pace is a bit too fast for beginners, and the accent sometimes makes it hard to follow."
+4.5,Course content is very nice. But some times the content is blurry and not able to read. And this happens most of the time when the course is opened in smart phone
+4.0,"It was a great course on introduction and basics to NLP, learnt so many things. I recommend this to beginners, it will really be helpful. For students who already have knowledge of NLP, I would recommend them to take NLP with focus on Deep Learning. Thank you for such a nice course."
+1.0,Practical NLP projects are the most common and the basic level which is available in every NLP tutorial of different instructors. The practical code was not explained properly.While explaining python code he is leaving many python instruction or code in between. Sometimes you have not even run final print command to show the learner how and what the output is coming.No new project and case study involves that helps the learner to get a better understanding.
+4.5,One of the best course i have been through. I am awareoff the theory concepts but doesnot know how to execute. This hands on videos will helps me a lot. A great thanks to Bijoyandas
+4.5,A very good attempt.
+5.0,It was a great course and the contents were really insightful
+5.0,Awesome explanation. Helped me a lot with my course project. Thanks Bijoyan.
+4.0,Please provide me the some advanced code in implementing this technique.I tried the same approach by importing json file which is having more than 20 pages.I filtered and sorted the sentences which are more weighted.
+4.5,I am so happy taking this course. This is exactly what I am expecting to learn. great job!
+5.0,"The contents of this course are organized and easy to follow along. The instructor has touched upon basics which might help someone new to the topic understand the concepts. And, there are illustrations to make everything taught clearer. Overall, it's a good course for beginners."
+5.0,This course is worth the money. Instructor started from very basics and kept the course interesting.
+5.0,"Great Course. NLP techniques like BOW, TFIDF and Word2Vec are explained in very crisp manner"
+4.0,Good course introducing the basic concepts with hands on implementation.
+1.0,"Instructor's knowledge of subject in shallow. Explanation of what the code does is not clear and insufficient. Teaching tone is monotonous. First time disliking a MOOC this much, if only I'm able to give negative stars"
+1.0,not good .even educator dont reply answers for our questions.
+5.0,A very good course for the NLP beginners. Basic concepts are explained very clearly. Highly recommanded :)
+4.0,I think this course was a good fit for what I want to do with it (enhance my work with python) and for a refresher to coding overall.
+4.5,The experience was really good! Learned new things
+5.0,Nice ! Good for beginners
+5.0,This course is great for those who are trying to get into NLP from scratch. Bijoyan sir starts from basic to goes in NLP. I completed 70% of my course and I learned a lot. He is also very helpful and responsive regarding as your queries. If you are beginner in NLP then you should take this course.
+5.0,amazing course so far made my concept clear.
+3.0,"I didn't know Spyder, only Jupyter Notebook, great alternative ..."
+5.0,It was good so far but can really comment at the end of the course
+3.5,yes it is good uptill now
+5.0,"I have already gone with so many blogs and tutorials, I am just wondering why they didn't explained the way you have done. You have made this so simple to understand and have the concept where all concepts looks clean and clear."
+5.0,Thanks for the tutor who provides all the basic knowledge of NLP. Each and every video contains much details.
+2.5,There is a need for explaining the intuition and reasoning behind the steps which should come first in my opinion
+3.5,"It was a good course, the instructor knew the concepts in NLP"
+5.0,I like the experience since I come back to programming again
+5.0,"Well structured, excellent explanations, good for beginners!"
+4.5,The instructor can explain the topic very well. But it is very basic for learn Natural Language Processing. I hope if the instructor can make another courses that can discuss Deep Learning for Natural Language Processing. Thank you
+5.0,Simply really good this is probably one of my best experience uptil now on Udemy
+5.0,quiet good for starters!
+4.0,"It's clear and crisp, it's easily understandable."
+5.0,The instructor explains complicated things in a simple way.
+3.5,"This teacher is okay with the programming, but he did not do very well in depth."
+5.0,Great course. Easy to follow and practical
+5.0,Good point for starting NLP. All of the methods explaining clearly. I suggest everyone who interest NLP from scratch.
+5.0,I am new to NLP and I really enjoyed this course. Thank You!
+5.0,Love the whole course. It is one of the best course you could get to have a quick grasp of hand on NLP processing
+4.0,The course is good but the screen being used is not friendly for visibility.
+5.0,Clear explanations. Amazing insights with projects. Quite helpful.
+2.5,The course structure and the explanation is nice but you're not available to clear our doubts or to explain the concerns. That leaves us with a lot of gaps in between and many clarifications to be done. So I'd suggest you follow up on those queries and get back to us.
+5.0,It is very good hands on. Very well described different models
+4.5,Great introduction to NLP with Python. Teacher is clear in the explanations and exercises are engaging. Worth to do if you wanna have a strong base on the subject.
+4.0,The intro isn't really necessary for me. I am really here for the projects.
+4.0,Good course for learning NLP basics with Python.
+4.0,It was a good session on Python Basics running under Spyder IDE
+5.0,Very clearing concept............
+5.0,"Simple, Clear, and good explanation! Thanks."
+5.0,"very good course on NLP, detailed and clear"
+5.0,definitely an amazing content with a easy facilitator
+5.0,it is good for the beginner and easy to follow
+5.0,Great course for the beginners. Nice explanation.
+5.0,"nice explain, every point with simple to hard examples."
+3.0,"The content is easy to follow and instructor is clear as well. The videos however taking too long to load, ruins the entire experience."
+5.0,it was too good.
+4.0,"All ok so far, nothing special to say"
+5.0,Really good for beginner.
+4.5,Detail explanation and hads on
+5.0,It's comprehensive and detailed with real world application.
+4.0,"So far this course has mostly served as a quick Python tutorial; we have yet to truly dive into the subject matter. For those with a slight knowledge of programming (or more), it is a good refresher."
+4.0,Good course to learn the basics
+2.0,i think the content could have been better
+5.0,simple way of teaching.
+5.0,It is a very good course. Easy to understand.
+4.5,i would love to learn this course
+4.0,Excellent explanation of concepts and code.
+4.5,"very easy,very good , very nice"
+5.0,"very good course, I learn all the basics of NLP"
+5.0,Just Awesome
+5.0,Good introduction to NLP
+5.0,well i found this course really helpful in my work project. Good explanation and knowledge. Really very helpful.
+5.0,Probably the best explanation I found on the web using NLP so far !
+5.0,Concepts are explained in depth
+5.0,This is very best basics NLP course
+5.0,Very easy to understand and follow.
+4.0,"easy to understand, thanks!"
+4.0,Great training!
+5.0,Great Course!!!
+5.0,So good ! I loved it.
+5.0,nice course
+5.0,Very good coverage. Easy to follow.
+5.0,Very Good Instructor Simple english and easy to understood. Thank You Sir. Hope i will follow your courses in near future which  helps to my Ph.D Research .Thank a lot Sir. 
+3.5,"The instructor is quite good, but it would be helpful if he had a highlighter around his mouse pointer.  It's sometimes difficult to follow what he's doing."
+4.5,this course was veryyy hellful for me.
+4.5,Yes. Good explanations.
+4.5,Very nicely explained and elaborated concepts on NLP
+4.0,very good  experience with this course
+5.0,pace of explanation is good & detailed explanation.
+5.0,"Yes,  definitely."
+4.0,It's been good but I just hope that the instructor could speak up a bit so that I can understand his sentences better.
+5.0,Very Nice
+3.5,yes it is good
+5.0,Thank you
+5.0,This is a fantastic course. I was looking for something that was beyond beginner but accessible.
+5.0,very very gooooooood
+4.5,Great so far.  :) My only suggestion is to use different colors for terminal because it is sometimes difficult to see what you are typing into the IDE.
+5.0,Tutorial is very easy to understand and the practical implementation shown was amazing.
+5.0,Extremely Interactive
+4.0,Clear Voice and Teaching Tone
+5.0,so far fits ideally to a beginner
+5.0,Amazing experience.
+3.5,The instructor explains everything in proper manner
+4.5,"Wonderful course , very clear explanations"
+5.0,Great and clear explanation.
+4.0,good
+5.0,Great..
+5.0,Insightful course for NLP with real life projects.
+5.0,Very clear and understandable.
+5.0,It is really helpful for starters on using Spyder as the IDE for Python.
+5.0,good
+5.0,"For the moment, the course is clear and the trainer explain all the stuffs that we have to do for continue the rest of the course"
+5.0,Nice
+5.0,"yes excellent match, nltk and sentiment analysis are the two key concepts I need to pick up for my job"
+4.0,yes
+4.0,I like it so far.
+2.0,Can't see the code clearly as pixels are not clear even if I am running at 1080p
+3.0,Its just introduction so far... So just average for those who already have this knowledge...
+5.0,"It is a fine start, up to now"
+5.0,Muito bom o curso :)
+3.5,its ok....good for the beginners
+5.0,Good teacher!
+1.0,"Not a good course, none of the code is explained well"
+5.0,So far so good. Best starter kit on NLP for students.
+3.0,Subtitles are nearly impossible to follow.
+4.5,So far so good
+1.5,Poor communication by the author.
+5.0,yes i want to learn python in deep.
+5.0,Yes. It is good for now.
+5.0,Easy to understand
+1.0,Terrible
+4.0,gr8
+5.0,Nice Course on Udemy.
+5.0,"If you are looking for a simple step by step explanation of N-gram , TF-IDF , .... etc with examples and how to apply them in Python, this is the course for you. "
+4.5,I will divide this review into pros and cons for you to understand it better. 
+3.0,please use bright font color in the code like white. the purple/magenta font color is not readable at all.
+5.0,Very HelpFul .
+4.0,More of taking an example and performing the vectorized operations would have been great
+5.0,great learning experience
+4.0,Nice course for beginners
+5.0,GOOD
+4.5,So Far the Information has Been Useful
+4.5,Pros:
+1.0,"The course is recorded live during a skype call for other students and then it was uploaded here, in addition to this the"
+5.0,"Thorough, in-depth explanation of a complex field. Perfectly aligned with the book ""Introduction to information retrieval"" by Christopher D. Manning, Hinrich Schütze, and Prabhakar Raghavan - Cambridge University Press."
+5.0,"This course follows the book ""Introduction to Information Retrieval"" in a very understandable way. "
+4.5,I have learnt a lot in this course! I love the way the courses are structured and the instructor's approach to teaching. The Instructor is obviously vast in the domain.
+5.0,very nice course.
+3.0,Didnt know it was a liv recorded class. It does not feel like the speaker is explaining to me
+4.0,The pace of explanation could have been faster
+5.0,Yes.Perfect Match
+5.0,Phenomenal
+2.0,Difficult to follow. The teacher does the job by using slides. He draws messy diagrams which make it really difficult to follow.
+4.0,good
+4.5,VERY IMPRESSIVE
+5.0,The instructor has total command over the subject and her presentation is superb.
+4.5,Brilliantly explained with respect to utility and importance of Python for text analysis and natural language processing.
+5.0,This is very useful course which explains the importance of use of Python in text mining and natural language processing. A must-read course on the subject.
+5.0,A valuable course on social media mining and text analysis and natural language processing- excellent presentation by the instructor.
+1.0,"This course is terrible. Not given in a clear manner and so many mistakes including modules that don't work and even chapter names that are incorrect (e.g. calling it ""NTLK"" instead of ""NLTK"")."
+5.0,Excellent course for learning the utility and importance of tools for text analysis and natural language processing. A well-designed course.
+4.0,"As a beginner, I found this course very interesting. It is triggering my interest in learning more about text analysis. However, some videos in the later section (specifically section 9) need some revision. It will be great if the instructor takes some more time to explain important steps rather than reading out the codes."
+5.0,"Very useful course , brilliantly explained with respect to utility and importance of Python for text analysis and natural language processing."
+5.0,The course contains valuable information which is capable of being used fruitfully in variety of situations.
+5.0,Very good course on text analysis and NLP with Python
+5.0,One of the best courses for social media mining and text analysis and natural language processing. The instructor has structured the course well and her delivery id engaging.
+2.5,THe topics are all over the place.
+5.0,Very limited theory but good for text analysis
+5.0,Outstanding and a complete course
+5.0,"The course is an embodiment of excellence in respect of social media mining, text analysis and natural language processing using Python. The concept can be very useful and effective for practical applications. The instructor's knowledge of the subject is impressive and her delivery is interesting and engaging."
+5.0,"This is an excellent course bringing out the importance and utility of Python for social media mining, text analysis and natural language processing. The tools can be of immense importance in the practical use of the concept. The instructor is brilliant through her lectures in explaining details of the concept."
+1.0,not getting the content up to mark
+5.0,Well documented and easy to follow. I love all the extra tips and tricks to make coding easier.
+5.0,"Great details, great teacher. She goes in subject  very slowly at the right speed to learn."
+5.0,Good course on Python text mining & analysis
+5.0,A very up to date course in text analysis. I liked the financial examples
+5.0,Outstanding course
+5.0,Easily explained and full of knowledge
+5.0,"The course discussing usage of Python in text analysis, data mining and natural language processing is beyond my expectations. Using the concept for practical work will make the task so very easy with accurate results. I hope to significantly get benefitted using this concept for my work. The instructor's knowledge of the concept is impressive and her delivery effective."
+5.0,The use of Python for social media text mining and natural language processing is an important and valuable concept. The concept has tremendous potential for practical use. The instructor has brilliantly explained the concept in her lectures. Her knowledge of the subject is deep and profound.
+5.0,Text analysis and natural language processing with Python is highly valuable course which will enhance my knowledge base several notches. It has wide practical usage as well. The instructor has complete mastery over the subject and her delivery is clear and confident.
+5.0,The course contains vital and important tools for text mining and natural language processing.The course will significantly enhance the quality of my work. The instructor has been superb both in the spectrum of her knowledge and her explanation of the concept in her lectures.
+5.0,This course is very good. communication is outstanding with full knowledgeable material
+5.0,Very comprehensive course on social media mining. It did not cover FB and IG which I need for my work but a great example of how Python social media mining works
+5.0,Its nice but does not cover the theory of text analytics. However has in-depth text analytics Python lessons
+5.0,A very up to date text mining course. It was good to access Twitter without the API
+5.0,Its a very hands-on course on practical text analysis with Python
+5.0,A very up-todate course on Python text mining and using Twitter data
+5.0,"It is very good to explain NLP, Thank you"
+5.0,"The instructor has fared exceptionally well in espousing the concept of Python for text analysis, social media mining and natural language processing."
+5.0,"The teacher not only said very clearly and easy to undersantd, but also provided a lot of useful notices."
+5.0,"Of the classes I have taken on Udemy, this is my favorite. Ivo is clear and thorough. He works through examples in an exhaustive step-by-step manner, assuming you know nothing about this topic. That means that when I really know nothing about a topic, I am able to learn everything (including the reason for doing things a certain way). In cases where I already possess some knowledge about the topic, I find it easy to speed through that section. In fact, I can check my knowledge ahead of time using his handy quizzes. If I ace the quiz before I start the section, I know I don't need to spend a lot of time on that section. His quizzes are an excellent way to test my knowledge after I finish a section, to ensure I learned the right lessons. I've even been keeping notes about the course and his teaching style in case I'm in a position to teach this content to someone else in the future."
+3.5,"Good course. I like how it is structureted. But I have to admit that sometimes variables naming was confusing. For example, in some videos there's ""context_word"" and ""word_contex"" as two different variables in the same function."
+5.0,The course is really well structured and Ivo explains everything with great detail. Above expectations
+5.0,So far so good. Clear content and examples.
+4.5,careful and detailed explanations
+4.5,Quite interesting !!!!
+2.0,Die zip Datei lässt sich nicht entpacken
+5.0,This is great. I like the tutor taking it slowly. It helps a lot as I'm a new entrant.
+5.0,The instructor explains the concepts that help to build an intuition about the topic before going into the R codes. His explanation are good too. This is a good course and I have given 5 star review.
+5.0,Very good course on R.  I knew quite a bit but learned a lot.  learned some new ways to do things that I had not thought of.
+5.0,"This is by far the best course I ever took anywhere.  After going through Regression course, I signed up for all the courses taught by the professor. I am amazed at the way he simplifies the concepts and makes us understand the theories with real life examples.  He has an excellent teacher.  I will recommend his courses  to anyone who wants to learn and have a strong foundation of Data Science concepts."
+5.0,mentor is just excellent. very wide knowledge with variety of eg. to understand the concepts.
+3.5,able to understand concepts.
+5.0,overall good...course is very useful and the pace of teaching is simply super and is worth for every penny
+2.5,"The course itself is pretty good, but files were broken frequently. Support to receive working files was not prompt at all."
+5.0,The course is like long journey and really comprehensive. Lecturer mentioned lots of fundamental statistics topics which is necessary for Data Scientists. It will provide strong infrastructure for those people who want to be Data Scientists.
+3.5,"is a good match but starting with regression chapters  did became boring , where is R ?  majority of time I see slides and xls."
+5.0,I am extremely happy ans satisfied to have this course in my learning basket.
+5.0,"This is an excellent course that has extremely detailed instructions with examples in both excel and r. I like how the he explains the top first, then follows up with examples. The course also moves along at a nice comfortable pace so that you won't get lost and can follow along. Great job. Cheers. Bill Hengen"
+5.0,Really good analysis techniques for forecasting as well as marketing
+5.0,Well placed content in very simple manner to understand easily and workable.Also Neatly packed for step by step progress.
+5.0,"Sim, imaginei que daria uma visão geral do curso com suas várias possibilidades de aplicação"
+5.0,ITs one of the best courses on statistical analysis !
+5.0,Great examples! Still waiting for real scenario examples.....
+3.0,"The descriptions are good, the delivery is slow and thorough, however there is a lack of some practical hands-on assignments. Furthermore, the more advanced topics are done in excel rather then R."
+4.0,"Took some time to get use to the accent, but the content of the online course is mind blowing & amazing."
+4.0,I feel sometimes same things are repeated again without any significance
+5.0,"very clear and comprehensive explanations.  If there were six stars, I would give this instructor all of it because he said, if you don't listen to your wife in getting six eggs, she will beat you..ha ha ha ha.  I can totally relate to him.  Joke :-)  Seriously, I didn't need coffee to enjoy this course.  Great job!!"
+4.5,"Good examples, clear explanations. Thanks.!"
+5.0,"Very detailed course on analytics, the teaching style is entertaining and the explanations are clear. Very good course!"
+5.0,Lecturer was able to illustrate using examples and make extra effort to pause and explain the topics covered. I enjoy learning from him very much.
+4.0,good for beginners
+5.0,Very much impressed by instructor's delivery. Course content and flow is appropriate. This course covers necessary topics to get a good understanding of basic statistics and get started with predictive analysis
+5.0,The greatest class for understanding of statistics in practice
+5.0,Die Materialien sind didaktisch sinnvoll miteinander verknüpft. Die Case-Studies in Kombination mit den Ausführungen des Dozenten sind sehr gut nachvollziehbar und vermitteln einen ersten Anwendungsbezug.
+3.0,Positive:
+3.0,"The instructor explains all the concepts and statistical techniques very clearly. But, I think more R programming exercises would do great. May be this can be done as a two part course one on concepts and other on R programming exercises"
+5.0,Enjoying this course....I like way the trainer teaches... Looking forward to learn more on Data Science
+4.5,"I am Still in the statistics part, haven't started coding yet. "
+3.0,I was interested in doing forecasting with R.  I already know all the statistical theory.  The programming plan is not well explained.
+5.0,"The course content is good and the instructor is explaining and proving every point and his argument with an example. Also, the instructor is explaining things by using some random examples."
+4.0,"I am a statistician and this course is very refreshing for me and it gives me another perspective, that is the business perspective of applied statistics."
+5.0,good detailed explanation
+3.0,the instructor give an overview of everything without go within the details
+5.0,Excellent course. So far so good. It'd be great if there were more videos on real world projects.
+3.0,The explanation given by the instructor is really good but I was just expecting more practice using R.
+5.0,Fantastic and brilliant course. Highly recommended and Bharani is a star!
+5.0,Nice Explanation....Please upload advance topics too  along with R codes!
+5.0,"Material amplo e profundo, método lúdico de ensino... Gera bastante independência nos estudos! Parabéns!"
+5.0,"I find these course extremely useful for me, as I have chosen this topic on my own interest. Looking forward to learn more about the data science.."
+5.0,I started off this course from the Linear Regression part and i can say that among the many udemy courses available this one covered the topic in a most comprehensive manner. The author in addition to talking about all the relevant R-codes also went quite in depth into the statistical aspect of the same which i was not able to find in any other udemy course as most of them usually talked about the R-part and gave a brief summary of the necessary statistics or completely skipped it.
+5.0,Comprehensive and well explained!
+4.0,speed of speaking is less. I have to run video at 1.5x. Content wise good. Covers from basics.
+3.5,Theoretically good content. Could have been better if some concepts explained with intuition.
+5.0,The guy gets 5 stars solely for explaining degrees of freedom in a way I actually comprehend. He is so straight-forward. I love it.
+5.0,Really like the way Bharani teaches this course.  It's down-to-earth and not overly polished or produced - I appreciate that.  His attention to detail is really helping me learn this subject and will indeed help me in furthering my career.
+1.5,"Till now the teacher appears to be good news reader and nothing more than that. He is building concepts from the basics which is actually way too basic. Anyways, what is irritating is a sound at the background that plays after every 10 secs and it is really disturbing. Hopefully, the course content will improve in the future session. At this poin i am done with 16 lectures, I believe"
+4.0,good content
+5.0,Excellent
+5.0,The way of explaintion is way superior and examples are super handy to understand complex concepts
+4.5,as of now its good experience waiting for the next round of class
+5.0,He makes these lessons easy to understand.
+5.0,Good course.....and good for beginners...It would be very helpful if you upload advance concepts..
+5.0,The instructor is teaching in a very lucid way with a lot of examples and covering a huge area. Its really awesome.
+2.0,It's too basic knowledge about statistic. The title should be changed because this is mostly introduction to statistics and some R coding. Maybe I know too much to take this course but the title doesn't show how the course has basic knowledge . I hope I will learn something as I proceed the course..
+1.0,"I am an English mother tongue but I had a huge difficulty on understanding most of the spoken parts. To worsen the course the teacher is constantly loading up pages on internet, jumping chaotically from one program to another and an annoying sound continuously appears. The course It is really confusing and poor. I did pay really little compared to the original price but I have to admit that every course in Udemy has got courses that cost one tenth of the original price."
+5.0,"The explanation is so good, that at one go you would understand the concept. Very clearly explained. The trainer's experience is all shown the way he had dealt with the subject makes learning so easy. Happy to have purchased this course. This is so helpful in learning the subject."
+3.0,MUY DETALLADADO Y EXPLICADO CON MUCHA CLARIDAD
+5.0,Very nicely explained...But content is pure basic
+5.0,Good details and concepts are covered... Nice explanations.
+5.0,It is contain knowledge about different things and shows you as well.
+5.0,nice explanation ... Expecting more advanced concepts..
+2.5,"the zip file introduction section did not open and it is called ""Data-Science-Material-and-R-codes"" . I put this issue in Q&A section and no reply so far and I don't see replies to other people so I don't know if instructor usually  connect with students or not"
+5.0,"Very good quality, however a bit outdated for 2019. For example, it is 2019, in a month it will be 2020, and we get to have 5G. Also, with machine learning, data scientist may not be in such high demand."
+5.0,its really superb...
+3.0,The audio is somewhat fuzzy. Could use better microphone for more clear audio
+5.0,Each Topic are explained with an example and the pace is also slow
+5.0,Best online R course I've seen so far!
+5.0,This course has the perfect balance of theory which leaves you with a solid understanding of the concepts. I LOVE that he responded to my question within a day. Well done!
+5.0,"Amazing delivered course,  instructor has command over the subject he is teaching and teaches very passionately; fortunate to have this kind of trainers;"
+2.0,annoying beep in background. Classes read like script versus natural spoken language.  Zip files with sample code did not work for statistical exercises or text mining which is what I wanted the course for - just kept opening new zips.  Annoying use of the Pen tool on the lesson to draw numbers and symbols - very distracting and hard to read.  Really disappointed in this course.  there are better R courses out there.
+2.5,"Very basic for beginners, I have selected the wrong course for me"
+5.0,Till now the content is very good. Topics covered so far are very clearly explained.
+5.0,"Bom e didático, mas seria muito melhor se ele incluísse legendas."
+3.0,Too much context so far. The pacing is tedious.
+5.0,Well-organized course that answers all my questions. Looking forward to implementing my ideas based on the information and suggestions provided in the videos! I can honestly say that ExcelR Solutions is one of the absolute BEST instructors on Udemy.
+5.0,initial approach was excellent..  well skilled trainer
+5.0,The course at the start was so inspiring mostly because examples which were presented and the potential of a data scientist in the foreseeable future.
+1.0,"very slow method of deliverance. Also, spending way too much time on obvious things."
+5.0,Extremely clear and concise
+5.0,Really good information presented in a logical way. ExcelR Solutions (Instructor) knows his stuff!!! I love every sections.
+5.0,"I think this is a great start to the Regression, Data Mining, Text Mining, Forecasting using R. Thank you for all the useful content."
+5.0,"Great practical example of what big data is about, generally new and in your face kind of examples that is being used. This is awesome"
+5.0,detailed explanation
+4.0,okay
+4.0,clear and concise.
+5.0,Nice tutorial....Interesting topics...
+5.0,Awesome!
+5.0,nice course..
+5.0,The trainer has a thorough knowledge and is able to entice the attention very well
+5.0,Excellent
+5.0,way of explanation  is good...
+5.0,Good Course....
+3.5,Good
+5.0,Excellent content...nice explanation...
+5.0,"Excellent, way of explanation is good"
+5.0,good explanation...
+0.5,He has yet to teach anything...he just evangelizes big data. I already know that or I wouldn't have bought this course.
+4.0,easy to understand and real life example used.
+5.0,good course
+4.5,"This course touches briefly on high-level theory and concepts like  statistics, transforming data, correlation and linear regression, etc"
+3.0,I want to dive into the lesson sooner.
+5.0,Nice explanation..
+1.0,It keeps talking about how important and powerful is data analytics but don't show a bit of how to conduct analysis.
+1.0,So many other courses I have seen are succinct and get to the point with bullets. This guy just goes on and on belaboring the same point for several videos. He writes on the slides instead of just having the material on the slide. this adds tons oaf time and no value.
+3.0,No exercises
+0.5,nothing concrete. just talking about trends
+2.5,Too much talking about why data is important. Anyone viewing this course already knows that.
+1.5,Looks like structuring the topics require more attention
+5.0,Nicely explained
+3.0,Could be better
+5.0,Good material and knowledge from zero or scratch
+5.0,Nice content...
+2.0,"Too much time trying to ""sell me"" than getting into the meat."
+4.0,"So far it's clear, but it could help to improve a little more the english in the subs..."
+4.0,With all material I can rate it as 4 star without that its incomplete
+5.0,seems a good informative course
+3.5,Now it's explanation is going on
+4.5,more informative
+5.0,so many information and helpful tips to learn from this course. Thanks
+2.0,not so direct...
+3.0,"3 stars for the first session, will update more..."
+4.0,So far it's interesting.  Topic I'm familiar with.
+5.0,good Content....Very well explained.... Please add advance topics too... it will be very helpful for me..
+4.5,so far good
+2.0,太多過於基礎的東西
+2.5,its pretty Basic
+3.0,Accent i
+5.0,Superb Training....
+5.0,Informative
+5.0,The instructor's knowledge of the subject regarding data processing in R and her delivery is impressive.
+5.0,The course contains valuable information on text mining and natural language processing..The concept has been brilliantly explained by the instructor.
+1.0,"First of all, the instructor does not adequately explain concepts. This course is basically a video of the instructor walking through and executing lines of code that she has written. It includes absolutely zero explanation of why she wrote the code the way she did. Why did she choose a particular function? How is this code doing what we want it to? If you want to know any of this, be prepared to teach yourself. "
+4.0,"Although I'm already familiar with R and RStudio, I still learnt a bit more. But I look forward to the new material. I'm glad to have heard in the introduction that the lecturer is a good teacher."
+5.0,Hands-on course on text mining and natural language processing training for data applications in R. It has vast potential for practical applications.
+5.0,Hands-on course for data mining and natural language processing.
+5.0,One of the best courses on data mining and natural language processing in R.
+5.0,The instructor has in-depth knowledge of the subject and her presentation is flawless.
+5.0,Hand-0n course and excellent use of R for data mining and natural language processing. Brilliant presentation by the instructor.
+4.5,The instructor has in-depth knowledge of the subject and her presentation is outstanding.
+5.0,The course contains useful information about text mining and natural language processing in R. It has unlimited scope for practical usage. The instructor's presentation is superb.
+5.0,Extremely useful course on text mining and natural language processing in R. The course has umpteen possibilities for practical usage. The instructor is very clear and lucid in her lectures.
+5.0,Very good material on Text Mining and Natural Language Processing in R.. I got a lot of knowledge
+2.5,las versiones de las librerías no están vigentes a la fecha
+4.5,Hands-on course for text mining and natural language processing in R. The course has immense potential for practical applications. The instructor's knowledge of the subject and delivery is superb.
+2.0,Reading codes from the script with very very little explanation.
+5.0,Text mining and natural language processing in R is a course which is ideally suited for my work. It contains valuable and useful information which has vast potential for practical usage. The instructor is simply brilliant in explaining various details of the course.
+5.0,Very good course on text analysis in R
+4.0,Nicely explained and full of material on the subject
+5.0,Text mining and natural language processing in R is a hand-on course for me which will significantly enhance the quality of my work. The instructor has brilliantly explained various facets of the concept.
+5.0,Good text mining course
+5.0,Little theory and needs an update. But good for learning text mining in R
+5.0,Outstanding course
+5.0,Content is exactly what I have been looking for
+2.0,"All over the place. One section doesn't end properly, with us being left waiting for an analysis to finish. In another, the materials from 'Text Mining in R' by Silge and Robinson are presented without attribution, and with the presenter apparently not very familiar with what she is looking at as she struggles to explain either the data or what the tidy approach means. Very disappointed."
+5.0,This is a very good course. I learn a lot from it.
+5.0,Explains every concept with good logic
+5.0,Text mining and natural language processing in data mining application in R is a course which has immense potential for practical use. The course is most suited for my work. The instructor's knowledge of the subject is impressive and her delivery effective and clear.
+5.0,Great course so far
+4.0,daha erken
+5.0,The most detailed and clever hands-on text mining course in R. It really covers all relevant topics. Some packages need updating and should include stock twits too
+5.0,Very practical course. I downloaded social media data in R using the concepts taught in this course to use in my project. The course really picked up pace after section 5. Could do with an update
+5.0,An immensely practical course on text mining. Looking forward to the ML part in R
+5.0,The most comprehensive text mining resource out there. It is information packed and systematic. Its very hands-on and it will be nice to have some deep learning examples
+5.0,One of the most hands-on text mining courses in R out there. I learnt a lot
+5.0,"I think this is a very unique course. It is not for rank beginners and does not spend a lot of time on theory. But having said that, it certainly does pack a lot of punch in terms of hands-on implementation of the different techniques. I can actually see how to obtain textual data from different sources including twitter and implement the same techniques for my own purposes in R. Further, the use of different packages requires following along closely but now I have an advanced toolkit at hand."
+5.0,Good quality text mining material with R. It will be nice to have more material on NLP
+5.0,A very nice course for Text Mining and Natural Language Processing with good explanations.
+5.0,The best hands-on text-mining course in R out there. Its slim on theory but hits the ground running with real-life data
+5.0,It is one-of-a kind course which taught me how to extract/mine social media data and draw insights from it using R. A Python version will be good
+5.0,Love the portion on social media mining in R. It is a very effective course
+5.0,One of the most information packed sources of R text mining out there
+3.0,The Youtube videos for each heading in the sections are not clear. For each section if practical lab is available then it will be easy to practice and remember each feature.
+5.0,The best course on NLP in R. I can use the techniques for my own research
+4.5,It was a very good course to understand text mining with R.
+1.0,1. More than 60% of the course isn’t about NLP. 
+3.5,"The course in general is good but both materials and the overall structure are a little bit messed up. They seem not to have a logical order . This course is absolutely not affordable by newbies and I think it's difficult even for someone who already has a base of text mining, ML and NLP. The theory is poor and the course hasn't been updated since 2018. A couple of years in data science is a certain time. Some functions  have been changed or  are deprecated, while others closed up. And API for social mining too... It's a pity. Let's hope that teacher would update the course."
+5.0,Text mining and natural language processing training for data science course is an excellent course which is greatly useful for my work. Impressive way of the instructor to explain various facets of the concepts.
+5.0,This is an amazing course on text mining and natural language processing in R. The information contained in the course is valuable. It has vast avenues for practical applications. The concept will certainly enhance the quality of my work. The instructor has complete mastery over the subject.
+5.0,Text mining and Natural Language Processing in R is a valuable course which has unlimited opportunities of practical usage. I find the course most useful for my work. The instructor is very knowledgeable about the subject and her delivery is engaging.
+5.0,Text mining and natural language processing training for data science application in R in an important course which contains valuable information. This is an advanced course and I find it very useful for my work. The instructor has complete mastery over the subject.
+3.0,"Great diversity of content and I appreciate the effort in creating a course like this. However, since info on the last update is one of the criteria I use to purchase online courses,  I was a bit disappointed at the amount of outdated content I found. I understand that the digital world is constantly changing so it's ok to find minor outdated info or tools, but that's not the case here."
+5.0,Text mining and natural processing in R is an important concept which has been brilliantly elaborated by the instructor in the lectures of the course. It has wide applicability avenues and will significantly enhance the quality of my work. A hand-on course for me.
+5.0,Excellent course i have learned soo many things from this course i prefer to all beginner that they should do this code once Thank you for this beautiful course.
+5.0,One of the best courses I have ever taken. Everything is explained in the best way possible. The Instructor is also good. Must give this course a try. It enhanced my knowledge of the subject matter.
+5.0,This is a great class. I have learned a ton. The assignments were challenge and left a definite feel of accomplishment. The materials and coding were excellent.
+5.0,"Very good explained course, with lot of useful exercise, so you can be sure to understand the theory. The practical examples in R are well designed and explained. This is definitely a must for someone interested in text mining, with beginning concepts that you need to keep in mind for further coursers. The instructor is also excellent, explanation and examples are very good. Recommended!"
+5.0,I love this course. Lots of well structured lectures and instructor explained them very good. Those lectures covers almost all the topic. Codes are really helpful. I have taken some text mining in R but this is the best!
+5.0,"This course worth 6 star. Awesome sessions, resources and codes. Instructor has excellent capability to teach. She is very knowledgeable. I am recommending this course."
+5.0,The coding practices really helps understand how text mining works. Great explanation and code exercises. Sessions are well organized. I am totally satisfied!
+5.0,"Incredible course, all around planned and well taught. This has been an excellent learning experience. I have never seen anybody teaching with this precision and great."
+5.0,This was a super easy course. The instructor was just brilliant! i really enjoyed learning TM & NL in R through this course . thank you and keep up the good work
+5.0,The video exercises are extremely helpful. Covered approx each point that might be required in his further courses. Resources are good! Thanks a lot!
+5.0,"This is simply mind-blowing. To the instructor of this course, Thanks a lot ma'am. You made this course super enjoyable. Keep Smiling and stay safe."
+5.0,Extremely well designed course. The assignment touch all the concepts taught in the class. Lot of concepts get clarified when you try to reach 100% on assignment. Highly recommend this course.
+5.0,"Learned the fundamentals of TM and NLP in R. Lecture knowledge sequence and codes are very good in quality. If someone ask my opinion, I would recommend to enroll it!"
+5.0,This is the most up-to-date content on text mining I have come across in a very long time. Very hands-on and a good R coverage. Good investment of time and money
+5.0,"It was a good course. Simple explanations and good examples for everyone to understand the NLP in R. Of course as you can understand from the topic of the course it is for beginners, but if you are advanced you can finish the course so much faster also."
+5.0,I really appreciated how the videos are bite-sized chunks of learning. The way the lessons were condensed helped me focus on the current topic.
+5.0,Very well made. Videos short and to the point. Great for beginners or even more experienced programmers who want to reinforce their foundation.
+2.5,The instructor gives practival examples.
+5.0,This is the kind of course i was looking for. All those lectures are perfectly prepared. Explanation of the codes makes this course more easier. Text mining is no more fear to me!
+2.0,"topics are interesting but treated fast, with almost no explanaitions of the choices made (if any) and materials provided (code and data) are not always updated or available or working. the autor is probably very expert of datascience in general but not of unstructured and textual data. too many mistakes in the material provided. she should work more on accuracy and get out interesting insights"
+5.0,"This course has been fantastic. The sessions and resources have been wonderful, detailed  and so helpful. Thank you so much for everything!"
+5.0,"That's called quality course. Everything is just like a student needed! Well explained lecture, exclusive codes, ton of resources makes this course perfect. I am not only satisfies but also will recommend it to everyone."
+1.0,"Lots of code chunks are copied from other tutorials which are freely accessible in the internet. The author does not properly mention the original source, which is very bad scientific practice! Furthermore, the author does not really ""explain"" WHY the code is like it is, nor does she explain the theoretical background; the videos are mostly just a plain reading of code chunks you can listen to. Therefore a bad rating."
+5.0,"Amazing start, dashing explanation, smooth finish. Overall it was a masterpiece! This course teaches me A to Z of Tm and NL in R. Thanks a lot!"
+5.0,Very well planned course and has such good practical text mining examples. I was able to use the course to get data off Twitter for my project
+5.0,It has a steep learning curve but I am learning practical side of text mining in R. Some functions don't work super-well. It should include graph analysis
+1.0,"Bad explained, code is often written badly, in one lesson she randomly started eating while explaining. It's basically just copy-paste"
+5.0,I found the course materials and examples very useful and relevant to my work.  A good introduction to text processing.
+5.0,Course covered maximum of my problems. Regular updates makes this course more rich! Social media mining part attracts me most!
+5.0,"Lecturer is enthusiastic and looks like he enjoys teaching the course, Good use of examples to illustrate a point."
+5.0,This is a very well designed course which ideally caters to the field of work which I am currently working on.
+5.0,Course materials are satisfactory. All the session are detailed and well explained. Updated lectures are more helpful.
+5.0,"Although the lessons are at times a little disjointed, it is the best NLP/ Text Mining course I have seen outside of DataCamp. TF-IDF is a hugely useful concept is explained really clearly (much better than other resources). Similarly, I like the way the Instructor uses TidyText/TidyVerse and Quanteda  - so, it really shows that the course is really up to date!! Thanks"
+5.0,"An amazing course for Text Mining. I am actually building a web app in this area. Thanks a lot for the ingredients provided. I recommend this to everyone who is interested in NLP and Sentiment Analysis. #Minerva, maybe you can also do a course on Shiny for R."
+5.0,The most hands-on course on R based text mining
+4.0,"Plenty of codes and materials that can be reused. Would have given 5 stars if she was still updating the course but unfortunately that is no longer the case so some of the codes might not work and she is not replying anymore, some of the questions are a year old with no answer."
+4.0,Good course to understand concepts of NLP. Intution for each concepts can be explained better before the coding part of each section.
+5.0,"I learned a lot from this course, I really able to  expert in text mining now than before, Thank you very much!"
+5.0,Little theory but very practical for analysing text data in R
+2.5,"This course included most of the knowledge I wanted. Every section has codes, so you can quickly run them. "
+5.0,Very through introduction to text mining in R
+4.0,"Yes, it was a good match. The course covered the content well by using many relevant examples."
+5.0,Very hands-on text mining and NLP course in R
+5.0,It does not have a lot of theory so it is difficult to grasp the context. But this is a hands-on and a practical course
+3.0,"Awesome content, but missing codes explanation. The instructor keep reading the coding lines almost all the time, without giving sense to the information. There are some missing resources and broken codes."
+3.0,"This is the first Udemy course that I abandon, after finishing half the course. It's a pity because subject of the course is fascinating and it's probably the only course on this subject. However, the course is plagued by problems that makes it frustrating to follow to say the least:"
+5.0,I am really enjoying the course so far. It will be useful if Minerva could make the lectures downloadable
+5.0,Very practical course on text mining and analytics in r
+1.0,The explanation is not at all up to the mark and it is more of reading out the lines of code written. Not at all helpful.
+5.0,Very interesting. Would have liked it to have more applications unrelated to social media and more focus on just general text.
+5.0,I really liked the presentation and got many valuable tips. Extra thank you
+5.0,"Excellent course, very comprehensive - would highly recommend to everyone."
+5.0,"Extremely good and thorough so far, only half way through though so looking forward to the rest."
+5.0,Nice and easy instructions. Breaks it down pretty well. Good starting tools.
+4.0,"good, practical course. sometimes some of the files are missing or in the wrong folder."
+4.5,Best practical experience with Text Mining and NLP. Thank You
+2.5,Resources not provided for every segment.
+1.0,"I have taken quite a few courses on Udemy already. This one is without a doubt the worst! The course instructor doesn't actually explain anything in detail. She simply shows some pre-written code on the screen and doens't go beyond ""now I do this"", ""now I do that"". There is no context, no real elaboration on the ""how"" and the ""why"". "
+5.0,"Great course, really changed my text mining thought process."
+5.0,Los materiales y ejemplos del curso me parecieron muy útiles y relevantes para mi trabajo. Una buena introducción al procesamiento de texto. Pero obviamente necesitas actualizarlo regularmente.
+5.0,"That course is great, it takes you from the basics to advanced topics. many thanks for make this course so easy."
+3.0,The instructor did well by covering as many topic as she could.
+1.0,"This is the worst course I ever took, poor explanation"
+5.0,Don't miss out on a great opportunity
+1.0,"She needs to keep in mind that she is teaching the course for other people! not for herself. She needs to show her entire R code, and some lectures are unfinished. Her explanations are unclear and vague. Needs to incorporate clear and concise explanations. There are parts of the code she doesn't explain."
+5.0,The learning path is excellent.
+5.0,It is very resourceful course to learn about Text Mining and Natural Language Processing.  The course balances having enough detail for advanced users and working examples for those with a more basic knowledge.
+1.0,Mentor never responded to queries
+5.0,"Extremely helpful , Must recommended, Best guide , Totally worth it !!!"
+5.0,"The instructor is very easy to understand, knows the topic very well, and she have covered all the main topic with confidently."
+3.0,"Content is good, but Code files are missing, questions are not very nicely answered and all the files are pretty unstructured. Also some data files are missing. Code is only superficially explained, definetly not a beginners course!"
+5.0,"Cool! The course context was not rich enough in the first, but instructor update it regularly, and she is very keen on answering the question."
+2.0,Almost no question or query gets answered. Some of the resources are missing.
+4.5,Very detailed and helpful to understand.
+5.0,Short on theory but very practical text mining course
+1.5,Just reading out a bunch of codes. No explanation of DFM matrix and how it works. Youtube videos are much better. 
+5.0,Practical and Easy-To-Understand Course
+5.0,No theory but great for practical applications of text mining with R
+4.5,good practical knowledge... good explanation...
+5.0,"Wonderful course, in the classes are very exciting, the teacher gives you tricks and Lot of good material. I wish the multi-variate part had a little more depth."
+4.0,"Si, en general esta muy bien, solo faltó un poco en la lectura de pdfs, pues algunos comandos no pude hacerlos funcionar."
+5.0,Awesome Video and Audio quality...thanks
+2.0,Es dificil de seguir el curso y de realizar ejercicios.
+5.0,"Good explanations, good codes! Thanks a lot!"
+5.0,"Great class, learned so much in these videos. Best text mining course on udemy."
+5.0,"I still have quite a few lessons to go but the amount of practical content you get from this course is phenomenal. What I really like is how Minerva shows her train of thought alongside the different approaches to solve a particular problem. All practical, all useful."
+5.0,I love this course. It's simple
+5.0,Topics are explained wonderfully!
+5.0,Perfectly beggining course ever...many thanks!
+5.0,I very much enjoyed this course.
+5.0,Amazing tips! all very usefull
+2.5,"Too focussed on just the code; not able to establish the context or the use case. In some tutorials it feels like the code has been lifted from somewhere else, hence the presenter is not able to explain the real utility of the same."
+5.0,"The course is well structured, the final section about using machine learning with text data is particularly very useful."
+5.0,Easy to follow and a pleasure to listen to
+2.0,Not a very coherent explanation of concepts and does not provide a bigger picture. Very scattered and all over the place
+5.0,The best Course ever!!!!
+4.0,"Excellent and practical material, explained in a simple and clear way."
+5.0,Very good course for improving my knowledge
+5.0,"I liked the detailed oriented approach and it helped me to clear my base in text mining, which is required for Natural Language Processing."
+2.5,A crucial point is to get an Twitter developer account. A video explaining the do and don't would have been useful
+5.0,A good text mining resource in R
+1.5,"No theory, Just talking over code (most of which is from various R package documentation)"
+5.0,"I just loved the course, it actually was the first course that I got from the Udemy, and I was so happy that a choose minerva singh as the instructor."
+3.0,The videos show the relevant codes but it could have been better to understand the logic behind it.
+5.0,"To be frank, She Has lot of genius about the topic. so you can follow her without hesitation."
+5.0,The course is like long journey and really comprehensive. I am extremely happy and satisfied to have this course in my learning basket. Thanks a lot!
+1.0,The instructor can not teach the materials clearly. She talks in a way that she is reviewing the materials with herself not teaching it. It is hard to follow. I recommend to work on teaching skills first and then create a course.
+5.0,A maze with a nugget of cheese at every corner.....
+3.0,"Goes through the basics nicely, however may topics are outdated or simply do not work anymore. Overall quite exhaustive in the field of data scraping using R, learned many new packages and tricks to use."
+5.0,A great series of an advanced natural language learning application. The programming exercises are well designed and guide the student through the ideas in each section.
+3.0,"some of the scripts in the course need some updating. also, the delivery wasn't very engaging."
+5.0,Great for beginners....Covers everything
+2.0,"I'm really disappointed. The lecturer is clearly very intelligent, but I'm getting frustrated because I don't feel that I'm learning anything, despite being excited about this topic. "
+5.0,Excellent course for anyone who wants to learn about Text Mining and Natural Language Processing. Very effective and impressive.
+5.0,Great Course. The videos are short and you can always re-watch them in case you want to apply a certain technique.
+5.0,"I'm a beginner, and appreciate the insight obtained from learning from an experienced user. Big thumbs up! :D"
+5.0,Really liked the scope of the module. So far the learning has been great!!
+5.0,"En general, muy buen curso. La mayoría de las veces es una buena explicación. En algún caso, el presentador se pierde. continuar para mejor"
+5.0,SO FAR SO GOOD!
+5.0,Very well explained and detailed
+3.0,The course doesn't go into the detail of the code.
+5.0,Very clear. The voice level is now great..
+5.0,Madam I just love to learn from your tutorials because your teaching approach is super easy to grab all the steps.Thanks again
+5.0,All in all I am very satisfied and really appreciate all the efforts put inside this course. Thanks Minerva
+3.5,"Yes, it is a good match according to what i intend to achieve."
+5.0,Ideally suited my requirements.
+5.0,"Great material, excellent video quality, very knowledgeable instructor. Great value course."
+5.0,"I found this course very educative opened up new ideas to me. This course is so important for personal and professional development, I believe everyone should take such a course."
+3.5,good explanation but could be explained further
+5.0,Text analysis portion was hands-on
+5.0,excelent
+5.0,"This is the Exclusive course i've taken on udemy specially if you want to learn new subject or skill quickly through a very clear, entertaining & practical course. Well-done Minerva"
+5.0,He makes these lessons easy to understand. I think this course is well designed. Most of resource of Natural Language Processing is useful.
+4.5,The availability of resources has been extremely helpful!
+2.5,a little bit difficult to catch what the instructor said.
+5.0,Excellent and informative
+5.0,Take this Course man. it's a Great Course . I Have learnt a Lot. Instructor is helpful. Even Answered my innocent question about Text Mining etc.
+5.0,very nice
+5.0,Outstanding & informative
+5.0,Outstanding course
+5.0,I gained new knowledge where I know it will help me to improve my skills in R .
+3.5,good
+5.0,Elegant and Excellent!
+5.0,It's nice to try . thanks minerva
+5.0,lot of tips and tricks have been covered. I am enjoying the course and it is very in-depth.
+3.5,it was less in-depth than I expected but overall it's fine
+5.0,Overall a good Text Mining and Natural Language Processing course. Great interface and material is easily accessible.
+3.0,UI of the project is really boring and unprofessional
+4.0,Good
+5.0,Presentation was neat and clean.
+2.5,R codes needs to be explained in detail
+5.0,"Yeah, I have had some previous experience in R programming and I could say that she explains so well in the minimum sentences."
+5.0,An excellent course to learn R text from scratch !
+5.0,Outstanding course
+1.0,"1. The code isn't clean. Ways of writing are used that can be used, but aren't used in common."
+5.0,The knowledge explained very well with a lot of example !!!
+5.0,Outstanding course
+1.0,"It is not detailed, if the accuracy is less, then you should teach how to improve the accuracy of the model"
+5.0,Excellent! The teacher explains very well. Thanks a lot.
+5.0,Informative and excellent
+5.0,"i always want your new course. all part was so effective for beginner. Enjoyed the step by step, basics well covered. Thank you!"
+4.0,Some packages are abit old
+5.0,Amazing course that saved me a lot of time to learn a completely new skill to me.
+5.0,The instructor is very knowledgeable. Covers many topics and it is easy to follow. Lovely course about text mining in R and main approaches .
+5.0,Wow! it is extremely helpful for my goals
+5.0,I think this was my best investment of time and money in a long time. Highly recommended for everyone. I love you Minerva for your great course.
+5.0,"Wonderful course Minerva, I feel like this was a very good course. The explanations were well detailed for anyone looking to learn Text Mining and Natural Language Processing in R. Thanks You"
+5.0,"I think that the course is getting more interesting, I really enjoyed the course and will register many more courses from Minerva. I have done lots of exercises, still improving every day!"
+5.0,It's a great refresher course for me with new and detailed specific instructions as to what each subject is used for with clarity. Happy learning With Minerva
+5.0,It is practical course. I learned a lot from this course. I got to know how to do Text Mining and Natural Language Processing with R from this course. Thanks A  lot Minerva
+3.0,"Haven't really seen enough, but quality could be better."
+5.0,"I never had an online course where I learn and understood more content per video. I tried many courses, but this is different. I strongly recommend it."
+5.0,The instructor is teaching in a very lucid way with a lot of examples and covering a huge area. It’s really Awesome
+5.0,I really enjoy it. Very hands on and what I learned I could immediately transfer to my daily job. Thank You so much Minerva Singh
+5.0,Fantastic course! Minerva has a very engaging manner of teaching and the course content is very helpful .
+4.0,Procede per gradi senza dare per scontate conoscenze pregresse
+5.0,"oui , c'est bien expliqué !!!"
+3.5,good
+5.0,Informative
+5.0,Informative
+5.0,"In this course, I'm learning many new things."
+5.0,Excellent course. Really enjoyed taking this and through your courses my R knowledge is the best in my company.
+4.5,A wide range of information!!!
+5.0,I reckon that she went a little fast for absolute beginners but I'm good.
+5.0,Really easy to follow along. Clear and easy to understand.
+5.0,"Thank you Dr Minerva for all your efforts on this topics , you are the best !"
+5.0,Yes.. it's easy to understand the content and follow the instruction given by example.
+4.0,Will be able to comment on this at least half way through
+5.0,"Again, great course, thanks Minerva!!!"
+5.0,I think this course is well designed. Most of resource of Text Mining is useful
+5.0,I started like a beginner and now I feel more confident.
+5.0,Great analysis
+5.0,Certainly something that anybody can follow and apply step by step.
+5.0,Very hands-on
+5.0,It is really more and more helpful for me. I can learn a lot of things about R.
+5.0,"I really love the approach, very friendly and easy to follow. its great course. I recommend this course."
+5.0,This is a course I will be using for work .
+5.0,It was very good experience and opened myself to a new world of R.
+5.0,Extremely knowledgeable!
+5.0,very good stuff to understand the core subject.
+5.0,This is one of the best instructors on Machine Learning in Udemy.  You learn a lot with her very comprehensive courses.  Highly recommended.
+5.0,To the point en helder
+5.0,This is an excellent course and highly recommended !!!!
+5.0,Well done! Loving the structure of the course.
+5.0,"She explain well so far, I have more to learn."
+5.0,Good
+5.0,"So far, so good !! A good mix of theory and practice."
+5.0,I'm at the mid part. Till now It's amazing
+5.0,Yes
+5.0,Amazing learning Experience. I learnt more here rather than some books that i bought.
+5.0,Overall a very useful course and important topics to know.
+5.0,"Very good course for becoming a advanced R text, good presentation, course not complete yet, but a lot to gain.."
+2.0,not much impressing
+5.0,Awesome course with a really motivated teacher.
+5.0,Very good intuitional course about text mining in R and main approaches .
+4.0,Seems exciting so far.
+4.0,Basic concepts so far
+5.0,Good
+5.0,good
+5.0,XLNT
+1.0,No response to messages. Incomplete materials received.
+1.0,I can't download the file reviews from Amazon.  Please I'd like some help. Thank you.  There is no code available for the sessions about LDA and others.  There are only for the first sections.
+4.5,"EL curso es bueno, sin embargo, recomendaría realizar este curso en varias partes (II,III, IV, etc), sobre todo en que pudieran existir mas ejercicios para práctica. Por otro lado, ninguno de los recursos habilitados .zip me abrieron ."
+5.0,Very Nice course...Well Explained....Please upload nlp using R..It would be very help for us....
+5.0,Very Informative with R codes and good Explanation.... With R codes i will give 5 star rating..
+1.5,"This course is unstructured, parts seem to be copy pasted from other courses or presentations. Parts covering r code seem to be badly prepared (unexpected errors when running)."
+3.0,Course is generally nice but its audio quality is poor. In some sections there is background traffic noise in the audio which is disturbing
+2.0,The overall info on Text Search is well done and easy to follow. 
+3.5,Didnt actually cover the bonus lectures well. The R part of it was not highlighted greatly.
+5.0,Good Content.....Please do upload advance concepts too
+5.0,"Interesting concepts...Nicely explained,,"
+3.0,"Very superficial so far, no clear examples with codes."
+3.0,Unnecessarily Verbose!
+1.0,"It's very disappointing to say that the instructor has copy pasted from some of his lectures and created this course which are not in sync. The course starts with introductory concepts on text mining but doesn't translates well into the practical use of the concepts in R as is mentioned in the course title. The instructor explains in the course - what is a package and how it is installed or loaded, how to include comments using ""#"" in R-code but didn't take the effort to explain the code structure. He simple runs the code and says it is available for download with the course. To put it in simple words, my objective of joining this course wasn't to get a code file, instead I have come here to learn how I can write my own code and perform analysis which was not at all discussed in the course (except for extracting tweets and reviews from Amazon)."
+4.5,The instructor explained the subject matter well.  I was looking for more R code and exercises to strengthen my R skills.
+5.0,Explained very well..... Interesting course..
+3.5,"The presentation could be improved further; I have taken a couple of courses with Kirill Eremenko, and I like his style of presentation, so maybe I am being biase, but I still think there's more room for improvement. Thank you."
+3.0,very basic level info and not worth the price.
+3.0,Para quién no conoce R se hace difícil. Hay elementos que no logran explicarse con detalle.
+5.0,Good Course.... Excellent explanation
+4.0,Concepts have been explained very well.
+5.0,Nice Tutorial....very well explained..
+5.0,Nice Content very well explained....
+1.0,explanations are superficial.  Code is incomplete and doesn't work.   Hard to understand.   Not a good course.
+4.5,Its been good session so far on Text mining for word cloud and Twitter extraction
+5.0,"I like this course, Learned a lot of experience from this course"
+5.0,Useful and interesting concepts...Please upload nlp too
+3.5,The coding scripts should have been embedded into the slides.
+5.0,Interesting Course....
+0.5,It doesn't appear that all the R-code examples were provided.
+4.5,Coding part was bit difficult to understand
+5.0,"Nice course, very well explained.."
+5.0,Excellent course...Please do NLP it would be very helpfulfor us
+3.5,The background noise was a little disturbing
+5.0,nice course......Good content ...Please do add NLP sessions too
+4.5,the lecture is very clear and easy to follow the subject
+5.0,Good Course
+5.0,Interesting concept...
+4.0,Thank you for a great introduction!
+5.0,Quite detailed and descriptive course..
+5.0,Excellent course
+5.0,Quality content...
+5.0,"Si, fue una una buena elección"
+5.0,Falta mais exemplos.
+5.0,Nice explanation....
+1.0,poorly explained
+5.0,The Video Session of  Text Analytics / Text Mining using R  is  very useful and strongly recommend  everyone to go through this session .
+5.0,"Yes,it is very useful for me.By this course i gained some knowledge"
+1.5,Sound is very unclear
+5.0,seems good content
+5.0,nicely explained...
+5.0,Its Good and by going through introduction I think we can learn lot abt text analytics
+5.0,Very Interesting topic....Please upload videos on NLP too....
+5.0,The video is informative and explanation is very good
+5.0,yes
+2.5,Audio quality is pretty poor
+2.0,"too generic, and seems boring"
+5.0,It's good
+5.0,Excellent and Knowledgeable Faculty. Well designed course content with ease to understand !!!
+5.0,Its good
+4.5,Way of teaching is good
+5.0,Great presentation style and informative course.
+5.0,Informative.
+5.0,"Right balance of theory and handson maintained, with easy to follow notebook"
+5.0,Amazing Explanation to every minute details
+4.5,"I'm doing my graduation and was finding it difficult to do my project related to sentiment analysis. With this course, which came in handy, I understood all the concepts clearly and applied them in my final year project. Thank you so much for such unique and easy explained lessons and lectures."
+5.0,"Benjamin, I must say this is one of the best online courses I have taken. You have broken down the training into easy to follow with explanations that many other instructors may not be as thorough as you did. I truly enjoy this course very much."
+4.0,"It's useful for how to create basic sentiment analaysis things, but it can improve adding more exercises and more detail information. I expect next course :)"
+1.0,The course barely had anything useful for me as a beginner in sentiment analysis. I expected a breakdown of sentiment analysis plus a project i could use as a blue print when working on other sentiment analysis projects. Waste of my money
+4.5,"A good but fairly superficial use of a wide variety of concepts in NLP - can't say that I actually understand them. Also, I expected to apply by actually connecting to the Twitter API."
+2.5,He explains superficially how to do things like lemmatize...
+5.0,"the step by step is easy to follow, and it'd e great if can have a transcript."
+3.0,"The course works with already labeled data (negative, positive). We do not learn how to label data and without that knowledge you cannot do proper sentiment analysis."
+5.0,Feel really good and helpful!
+3.5,"Straight forward and to the point material. The right balance of theory vs coding. Got me started with the basics of word tokenization and sentiment analysis, which is why I wanted this course in the first place. Good for Beginners."
+4.5,"So far not sure, but the presenter is convincing"
+5.0,It was a good match and he articulated very well when explaining text and text mining.
+5.0,"Very good, short course which covers all important topics in just 2.5 h!"
+4.0,Good introduction on the background of text analytics and its applications
+5.0,"As a social scientist, I was interested in using python for discourse analysis – the course is clearly structured and focuses on providing a hands-on insight into NLP with lots of great insights, tricks and visualizations …"
+3.5,Time has not come yet to comment.
+5.0,introduction can be shorter
+4.0,Still introduction
+3.0,Technically it is definitely good match and content is satisfying but i can barely understand the representer because of his accent.
+4.0,The course is great and the content is concise and easy to understand.
+5.0,great
+3.5,"Rationale behind each step is well explained, as well as the function of the code. Short and practical."
+5.0,clearly explained
+4.0,I was a great learning experience. I learn alot about Natural Language Processing. I have to wheel it over again as it was alot of innformation given in a short time!
+3.5,good
+4.5,comprehensive lectures
+4.0,Good informative session for beginners
+5.0,"Great course, it is simple and straightforward"
+4.5,The course was very hands-on and the teacher is very knowledgeable and helpful. My understanding of NLP and SA grew significantly thanks to the course.
+5.0,"The course was  very good and gave me way much more clarity about how sentiment analysis works. Had a few unclear things at first in my first review but I really appreciated the instructur taking the time to reply and offering to answer my question and to be honest I find this pretty amazing (upgrading to 5 starts :d).  All theoretical concepts were very well explained. Thank you so much, this really helped me with my dissertation"
+5.0,"I was really impressed by the way the course is organised. There are code challenges, it doesn't get too in depth with theory. It's enough to make you understand the general idea and feel like the code it's valuable. Thank you for the great work! I'll follow you for more."
+4.5,"An excellent course and a great task-oriented introduction to NLP. Rather than just walking through a single example in a ""do this then do that"", the instructor provided explanations that were simple but not simplistic. I would have given it five stars except that the CountVector model did not converge."
+5.0,"Just the nice amount of explanation, and excellent practical for quick dive in text mining"
+5.0,This course will surely help us to do a project like this.
+5.0,The course is a great to the point explanation and application of the key points
+4.0,I like the course. It explains things very well
+5.0,Text Mining is a good match
+5.0,"Thanks a lot for the excellent course. Everything is explained step by step to reach the final model, and is very beginner friendly. Liked the combination of theory and practice lessons."
+5.0,Very interesting to discover real application of Artificial Intelligence. Course is very focused on sentiment analysis and how to reach it by applying artificial intelligence. Would be curious to know a bit more about other models than the one used in the course.
+5.0,"Great course to start with machine learning and nlp. Didn't have a lot of experience before (no math background) but everything is presented in the course so no one gets lost. Was able to follow from start to end, so very happy of my choice. "
+5.0,Very complete course content.
+5.0,"Very clear course on sentiment analysis. Objective was to build a machine learning model to analyze tweets, and I can say I can do it now. Definitely recommend the course to anyone interested to discover the subject."
+5.0,Everything is as described in the preview. 
+5.0,"Topic of the course is very well covered. Go for it if you liked what you see in the course preview, 99% what you'll find inside."
+5.0,Very interesting course on sentiment analysis. 
+5.0,"Really enjoyed following the course. Was afraid of complex maths but everything went smooth, while a bit quick at some times."
+5.0,Happy of my choice! Gave me a first introduction to text mining and machine learning. Curious to know more.
+5.0,Great start! 
+5.0,Very interested in the subject and I must say this course fully match my expectations. Will try to use it with new data and see what's coming out! Thanks a lot :)
+5.0,Jusqu'ici très intéressant
+5.0,Very well organized!
+5.0,Great course on Text Mining! Was totally newbie before joining the course and I must say I learned quite a lot of useful things. Think there are ways to extend the course so waiting for it ;)
+5.0,Super experience. Everything is covered in the course to completely understand text mining and how it can be applied to sentiment analysis. 
+5.0,Very happy I took this course. Will update my review at the end of the course.
+1.0,Why the instructor can't speak normally? It's not always required to be fashionable while teaching. Literally bad experience.
+5.0,Amazing course on the subject. Fast and straight to the point!
+5.0,Very comprehensive! 
+5.0,Many thanks to the instructor!
+4.0,Good match for me. Found exactly what was mentionned in the course preview!
+5.0,Very clear course on sentiment. Glad I take it.
+5.0,Very great start! Nicely teached and interesting content.
+5.0,Great course! Thanks!
+5.0,Great! thanks
+5.0,Great content!
+5.0,Perfect!
+5.0,Very great!
