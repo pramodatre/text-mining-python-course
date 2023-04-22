@@ -268,7 +268,7 @@ class TextPreProcessor:
     def __init__(self, text) -> None:
         self.tokens = self.tokenize(text)
         self.tokens = self.remove_stopwords(self.tokens)
-        # self.tokens = self.apply_stemming(self.tokens)
+        self.tokens = self.apply_stemming(self.tokens)
         self.tokens = self.apply_lemmatization(self.tokens)
 
     def get_tokens(self):

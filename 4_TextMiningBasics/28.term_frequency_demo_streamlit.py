@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from collections import Counter
-from cranfiled_data import Documents, Queries, QueryReleventDocs
+from cranfiled_data import CranDocuments, CranQueries, CranQueryReleventDocs
 from boolen_retrieval_helper import TextPreProcessor
 
 
@@ -38,21 +38,15 @@ def get_queries_df(queries: list):
     return pd.DataFrame(queries_dict_list)
 
 
-cran_docs = Documents(
-    "/Users/pramodanantharam/Downloads/cran/cran.all.1400"
-).get_all_docs()
+cran_docs = CranDocuments().get_all_docs()
 cran_docs_df = get_documents_df(cran_docs)
 print(cran_docs_df.shape)
 print(cran_docs_df)
-cran_queries = Queries(
-    "/Users/pramodanantharam/Downloads/cran/cran.qry"
-).get_all_queries()
+cran_queries = CranQueries().get_all_queries()
 cran_queries_df = get_queries_df(cran_queries)
 print(cran_queries_df.shape)
 print(cran_queries_df)
-cran_qrels = QueryReleventDocs(
-    "/Users/pramodanantharam/Downloads/cran/cranqrel"
-).get_query_relevantdocs_map()
+cran_qrels = CranQueryReleventDocs().get_query_relevantdocs_map()
 
 """
 # Build Text Mining Applications with Live-Coding in Python

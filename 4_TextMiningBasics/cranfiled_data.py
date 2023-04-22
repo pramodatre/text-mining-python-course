@@ -1,8 +1,20 @@
+import os
 from dataclasses import dataclass
 
+# IMPORTANT: You need to change this variable to point
+# to the location where you have downloaded the cranfield
+# dataset. You will copy paste the string that is the absolute
+# path to the cran directory.
+CRANFIELD_DATA_DIR = "/Users/pramodanantharam/Downloads/cran"
 
-class Documents:
-    def __init__(self, path_to_cranfield_documents_file: str) -> None:
+
+class CranDocuments:
+    def __init__(
+        self,
+        path_to_cranfield_documents_file: str = os.path.join(
+            CRANFIELD_DATA_DIR, "cran.all.1400"
+        ),
+    ) -> None:
         self.cur_tag = None
         self.prev_tag = None
         print(f"Reading contents form file {path_to_cranfield_documents_file}...")
@@ -51,8 +63,13 @@ class Document:
     abstract: str = ""
 
 
-class Queries:
-    def __init__(self, path_to_cranfield_query_file) -> None:
+class CranQueries:
+    def __init__(
+        self,
+        path_to_cranfield_query_file: str = os.path.join(
+            CRANFIELD_DATA_DIR, "cran.qry"
+        ),
+    ) -> None:
         self.cur_tag = None
         self.prev_tag = None
         print(f"Reading contents form file {path_to_cranfield_query_file}...")
@@ -90,8 +107,10 @@ class Query:
     query_text: str = ""
 
 
-class QueryReleventDocs:
-    def __init__(self, path_to_cranqrel_file) -> None:
+class CranQueryReleventDocs:
+    def __init__(
+        self, path_to_cranqrel_file: str = os.path.join(CRANFIELD_DATA_DIR, "cranqrel")
+    ) -> None:
         print(f"Reading contents form file {path_to_cranqrel_file}...")
         file = open(path_to_cranqrel_file, "r")
         lines = file.readlines()
@@ -111,9 +130,7 @@ class QueryReleventDocs:
 
 
 if __name__ == "__main__":
-    cran_docs = Documents("/Users/pramodanantharam/Downloads/cran/cran.all.1400")
-    cran_queries = Queries("/Users/pramodanantharam/Downloads/cran/cran.qry")
-    cran_qrels = QueryReleventDocs(
-        "/Users/pramodanantharam/Downloads/cran/cranqrel"
-    ).get_query_relevantdocs_map()
+    cran_docs = CranDocuments()
+    cran_queries = CranQueries()
+    cran_qrels = CranQueryReleventDocs().get_query_relevantdocs_map()
     print(cran_qrels)

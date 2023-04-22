@@ -2,6 +2,17 @@
 import numpy as np
 
 
+def compute_precision_and_recall(expected_docs: list, retrieved_docs: list):
+    expected_docs = set(expected_docs)
+    retrieved_docs = set(retrieved_docs)
+    relevant_docs_retrieved = len(retrieved_docs.intersection(expected_docs))
+    total_retrieved_docs = len(retrieved_docs) + 1e-4
+    total_relevant_docs = len(expected_docs) + 1e-4
+    precision = relevant_docs_retrieved / total_retrieved_docs
+    recall = relevant_docs_retrieved / total_relevant_docs
+    return precision, recall
+
+
 def average_precision_at_k(actual: list, predicted: list, k=5) -> float:
     """Computes average precision at k
     This metric is suitable for evaluating set based retrieval.
